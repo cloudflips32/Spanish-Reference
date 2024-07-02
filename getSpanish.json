@@ -243,6 +243,7 @@
       {"french fries":"papas fritas"},
       {"burrito":"burrito"},
       {"taco":"taco"},
+      {"toast":"tostada"},
       {"tacos":"tacos"},
       {"salad":"ensalada"},
       {"salsa":"salsa"},
@@ -252,6 +253,27 @@
       {"orange":"naranja"},
       {"grape":"uva"},
       {"apple":"manzana"}
+    ],
+    "drinks": [
+      {"water":"agua"},
+      {"juice":"jugo"},
+      {"orange juice":"jugo de naranja"},
+      {"apple juice":"jugo de manzana"},
+      {"milk":"leche"},
+      {"soda":"soda"},
+      {"lemonade":"limonada"},
+      {"coffee":"café"},
+      {"tea":"té"},
+      {"wine":"vino"},
+      {"red wine":"vino rojo"},
+      {"white wine":"vino blanco"},
+      {"spirits":"bebidas espirituosas"},
+      {"champagne":"champán"},
+      {"beer":"cerveza"},
+      {"wine glass":"vaso de vino"},
+      {"bottle":"botella"},
+      {"wine bottle":"botella de vino"},
+      {"wine cooler":"estufa de vino"}
     ]
   },
   "spanishToEnglish": {
