@@ -222,6 +222,8 @@
       {"eng":"sushi"       ,"esp":"sushi"                ,"pics":[],"audio":[],"examples":[]},
       {"eng":"pork"        ,"esp":"cerdo"                ,"pics":[],"audio":[],"examples":[]},
       {"eng":"steak"       ,"esp":"bistec"               ,"pics":[],"audio":[],"examples":[]},
+      {"eng":"duck"     ,"esp":"pato"                ,"pics":[],"audio":[],"examples":[]},
+      {"eng":"turkey"     ,"esp":"pavo"                ,"pics":[],"audio":[],"examples":[]},
       {"eng":"chicken"     ,"esp":"pollo"                ,"pics":[],"audio":[],"examples":[]},
       {"eng":"rice"        ,"esp":"arroz"                ,"pics":[],"audio":[],"examples":[]},
       {"eng":"noodles"     ,"esp":"fideos"               ,"pics":[],"audio":[],"examples":[]},
