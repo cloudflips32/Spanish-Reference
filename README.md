@@ -5,16 +5,16 @@ Feel free to PR or Comment with any suggested additions.
 ```
 Table of Contents
 
-004-010   Days of the Week
-013-024   Months
-027-034   Measurements of Time
-037-140   Counting
-143-172   Local Geography
-175-187   Entertainment
-190-200   Finance
-203-216   Transportation
-219-255   Foods
-258-276   Drinks
+003-060   Days of the Week
+061-158   Months
+159-224   Measurements of Time
+225-1058   Counting
+1059-1300   Local Geography
+1301-1406   Entertainment
+1407-1496   Finance
+1497-1610   Transportation
+1611-1916   Foods
+1917-2070   Drinks
 ```
 
 Thank you!

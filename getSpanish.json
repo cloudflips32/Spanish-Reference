@@ -1,281 +1,2072 @@
 {
   "englishToSpanish": {
     "daysOfWeek": [
-      {"eng":"monday"   ,"esp":"lunes"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"tuesday"  ,"esp":"martes"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"wednesday","esp": "miercoles","pics":[],"audio":[],"examples":[]},
-      {"eng":"thursday" ,"esp":"jueves"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"friday"   ,"esp":"viernes"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"saturday" ,"esp":"sabado"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"sunday"   ,"esp":"domingo"   ,"pics":[],"audio":[],"examples":[]}
+      {"eng":"monday"   ,"esp":"lunes"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"tuesday"  ,"esp":"martes"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"wednesday","esp": "miercoles","pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"thursday" ,"esp":"jueves"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"friday"   ,"esp":"viernes"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"saturday" ,"esp":"sabado"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"sunday"   ,"esp":"domingo"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      }
     ],
     "months": [
-      {"eng":"january"  ,"esp":"enero"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"february" ,"esp":"febrero"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"march"    ,"esp":"marcha"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"april"    ,"esp":"abril"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"may"      ,"esp":"mayo"      ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"june"     ,"esp":"junio"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"july"     ,"esp":"julio"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"august"   ,"esp":"augusto"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"september","esp":"septiembre","pics":[],"audio":[],"examples":[]},
-      {"eng":"october"  ,"esp":"octubre"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"november" ,"esp":"novembre"  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"december" ,"esp":"diciembre" ,"pics":[],"audio":[],"examples":[]}
+      {"eng":"january"  ,"esp":"enero"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"february" ,"esp":"febrero"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"march"    ,"esp":"marcha"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"april"    ,"esp":"abril"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"may"      ,"esp":"mayo"      ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"june"     ,"esp":"junio"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"july"     ,"esp":"julio"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"august"   ,"esp":"augusto"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"september","esp":"septiembre","pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"october"  ,"esp":"octubre"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"november" ,"esp":"novembre"  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"december" ,"esp":"diciembre" ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      }
     ],
     "timeUnits": [
-      {"eng":"milliseconds","esp":"milisegundos","pics":[],"audio":[],"examples":[]},
-      {"eng":"seconds"     ,"esp":"segundos"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"minutes"     ,"esp":"minutos"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"hours"       ,"esp":"horas"       ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"days"        ,"esp":"dias"        ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"weeks"       ,"esp":"semanas"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"months"      ,"esp":"meses"       ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"years"       ,"esp":"años"        ,"pics":[],"audio":[],"examples":[]}
+      {"eng":"milliseconds","esp":"milisegundos","pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"seconds"     ,"esp":"segundos"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"minutes"     ,"esp":"minutos"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"hours"       ,"esp":"horas"       ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"days"        ,"esp":"dias"        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"weeks"       ,"esp":"semanas"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"months"      ,"esp":"meses"       ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"years"       ,"esp":"años"        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      }
     ],
     "counting": [
-      {"eng":"one"            ,"esp":"uno"             ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"two"            ,"esp":"dos"             ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"three"          ,"esp":"tres"            ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"four"           ,"esp":"cuatro"          ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"five"           ,"esp":"cinco"           ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"six"            ,"esp":"seis"            ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"seven"          ,"esp":"siete"           ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"eight"          ,"esp":"otro"            ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"nine"           ,"esp":"nueve"           ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"ten"            ,"esp":"diez"            ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"eleven"         ,"esp":"once"            ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"twelve"         ,"esp":"doce"            ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"thirteen"       ,"esp":"trece"           ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"fourteen"       ,"esp":"catorce"         ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"fifteen"        ,"esp":"quince"          ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"sixteen"        ,"esp":"diesci-seis"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"seventeen"      ,"esp":"diesci-siete"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"eighteen"       ,"esp":"diesci-ocho"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"nineteen"       ,"esp":"diesci-nueve"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"twenty"         ,"esp":"viente"          ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"twenty-one"     ,"esp":"veintiuno"       ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"twenty-two"     ,"esp":"veintidós"       ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"twenty-three"   ,"esp":"veintitrés"      ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"twenty-four"    ,"esp":"veinticuatro"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"twenty-five"    ,"esp":"veinticinco"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"twenty-six"     ,"esp":"veintiséis"      ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"twenty-seven"   ,"esp":"veintisiete"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"twenty-eight"   ,"esp":"veintiocho"      ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"twenty-nine"    ,"esp":"veintinueve"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"thirty"         ,"esp":"treinta"         ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"thirty-one"     ,"esp":"treinta-uno"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"thirty-two"     ,"esp":"treinta-dos"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"thirty-three"   ,"esp":"treinta-tres"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"thirty-four"    ,"esp":"treinta-cuatro"  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"thirty-five"    ,"esp":"treinta-cinco"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"thirty-six"     ,"esp":"treinta-seis"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"thirty-seven"   ,"esp":"treinta-siete"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"thirty-eight"   ,"esp":"treinta-ocho"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"thirty-nine"    ,"esp":"treinta-nueve"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"forty"          ,"esp":"cuarenta"        ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"forty-one"      ,"esp":"cuarenta-uno"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"forty-two"      ,"esp":"cuarenta-dos"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"forty-three"    ,"esp":"cuarenta-tres"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"forty-four"     ,"esp":"cuarenta-cuatro" ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"forty-five"     ,"esp":"cuarenta-cinco"  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"forty-six"      ,"esp":"cuarenta-seis"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"forty-seven"    ,"esp":"cuarenta-siete"  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"forty-eight"    ,"esp":"cuarenta-ocho"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"forty-nine"     ,"esp":"cuarenta-nueve"  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"fifty"          ,"esp":"cincuenta"       ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"fifty-one"      ,"esp":"cincuenta-uno"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"fifty-two"      ,"esp":"cincuenta-dos"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"fifty-three"    ,"esp":"cincuenta-tres"  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"fifty-four"     ,"esp":"cincuenta-cuatro","pics":[],"audio":[],"examples":[]},
-      {"eng":"fifty-five"     ,"esp":"cincuenta-cinco" ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"fifty-six"      ,"esp":"cincuenta-seis"  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"fifty-seven"    ,"esp":"cincuenta-siete" ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"fifty-eight"    ,"esp":"cincuenta-ocho"  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"fifty-nine"     ,"esp":"cincuenta-nueve" ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"sixty"          ,"esp":"sesenta"         ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"sixty-one"      ,"esp":"sesenta-uno"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"sixty-two"      ,"esp":"sesenta-dos"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"sixty-three"    ,"esp":"sesenta-tres"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"sixty-four"     ,"esp":"sesenta-cuatro"  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"sixty-five"     ,"esp":"sesenta-cinco"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"sixty-six"      ,"esp":"sesenta-seis"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"sixty-seven"    ,"esp":"sesenta-siete"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"sixty-eight"    ,"esp":"sesenta-ocho"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"sixty-nine"     ,"esp":"sesenta-nueve"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"seventy"        ,"esp":"setenta"         ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"seventy-one"    ,"esp":"setenta-uno"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"seventy-two"    ,"esp":"setenta-dos"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"seventy-three"  ,"esp":"setenta-tres"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"seventy-four"   ,"esp":"setenta-cuatro"  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"seventy-five"   ,"esp":"setenta-cinco"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"seventy-six"    ,"esp":"setenta-seis"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"seventy-seven"  ,"esp":"setenta-siete"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"seventy-eight"  ,"esp":"setenta-ocho"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"seventy-nine"   ,"esp":"setenta-nueve"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"eighty"         ,"esp":"ochenta"         ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"eighty-one"     ,"esp":"ochenta-uno"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"eighty-two"     ,"esp":"ochenta-dos"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"eighty-three"   ,"esp":"ochenta-tres"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"eighty-four"    ,"esp":"ochenta-cuatro"  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"eighty-five"    ,"esp":"ochenta-cinco"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"eighty-six"     ,"esp":"ochenta-seis"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"eighty-seven"   ,"esp":"ochenta-siete"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"eighty-eight"   ,"esp":"ochenta-ocho"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"eighty-nine"    ,"esp":"ochenta-nueve"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"ninety"         ,"esp":"noventa"         ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"ninety-one"     ,"esp":"noventa-uno"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"ninety-two"     ,"esp":"noventa-dos"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"ninety-three"   ,"esp":"noventa-tres"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"ninety-four"    ,"esp":"noventa-cuatro"  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"ninety-five"    ,"esp":"noventa-cinco"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"ninety-six"     ,"esp":"noventa-seis"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"ninety-seven"   ,"esp":"noventa-siete"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"ninety-eight"   ,"esp":"noventa-ocho"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"ninety-nine"    ,"esp":"noventa-nueve"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"hundred"        ,"esp":"ciento"          ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"thousand"       ,"esp":"mil"             ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"million"        ,"esp":"millón"          ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"billion"        ,"esp":"billón"          ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"trillion"       ,"esp":"trillón"         ,"pics":[],"audio":[],"examples":[]}
+      {"eng":"one"            ,"esp":"uno"             ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"two"            ,"esp":"dos"             ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"three"          ,"esp":"tres"            ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"four"           ,"esp":"cuatro"          ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"five"           ,"esp":"cinco"           ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"six"            ,"esp":"seis"            ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"seven"          ,"esp":"siete"           ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"eight"          ,"esp":"otro"            ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"nine"           ,"esp":"nueve"           ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"ten"            ,"esp":"diez"            ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"eleven"         ,"esp":"once"            ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"twelve"         ,"esp":"doce"            ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"thirteen"       ,"esp":"trece"           ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"fourteen"       ,"esp":"catorce"         ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"fifteen"        ,"esp":"quince"          ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"sixteen"        ,"esp":"diesci-seis"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"seventeen"      ,"esp":"diesci-siete"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"eighteen"       ,"esp":"diesci-ocho"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"nineteen"       ,"esp":"diesci-nueve"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"twenty"         ,"esp":"viente"          ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"twenty-one"     ,"esp":"veintiuno"       ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"twenty-two"     ,"esp":"veintidós"       ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"twenty-three"   ,"esp":"veintitrés"      ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"twenty-four"    ,"esp":"veinticuatro"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"twenty-five"    ,"esp":"veinticinco"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"twenty-six"     ,"esp":"veintiséis"      ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"twenty-seven"   ,"esp":"veintisiete"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"twenty-eight"   ,"esp":"veintiocho"      ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"twenty-nine"    ,"esp":"veintinueve"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"thirty"         ,"esp":"treinta"         ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"thirty-one"     ,"esp":"treinta-uno"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"thirty-two"     ,"esp":"treinta-dos"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"thirty-three"   ,"esp":"treinta-tres"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"thirty-four"    ,"esp":"treinta-cuatro"  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"thirty-five"    ,"esp":"treinta-cinco"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"thirty-six"     ,"esp":"treinta-seis"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"thirty-seven"   ,"esp":"treinta-siete"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"thirty-eight"   ,"esp":"treinta-ocho"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"thirty-nine"    ,"esp":"treinta-nueve"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"forty"          ,"esp":"cuarenta"        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"forty-one"      ,"esp":"cuarenta-uno"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"forty-two"      ,"esp":"cuarenta-dos"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"forty-three"    ,"esp":"cuarenta-tres"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"forty-four"     ,"esp":"cuarenta-cuatro" ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"forty-five"     ,"esp":"cuarenta-cinco"  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"forty-six"      ,"esp":"cuarenta-seis"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"forty-seven"    ,"esp":"cuarenta-siete"  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"forty-eight"    ,"esp":"cuarenta-ocho"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"forty-nine"     ,"esp":"cuarenta-nueve"  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"fifty"          ,"esp":"cincuenta"       ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"fifty-one"      ,"esp":"cincuenta-uno"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"fifty-two"      ,"esp":"cincuenta-dos"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"fifty-three"    ,"esp":"cincuenta-tres"  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"fifty-four"     ,"esp":"cincuenta-cuatro","pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"fifty-five"     ,"esp":"cincuenta-cinco" ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"fifty-six"      ,"esp":"cincuenta-seis"  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"fifty-seven"    ,"esp":"cincuenta-siete" ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"fifty-eight"    ,"esp":"cincuenta-ocho"  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"fifty-nine"     ,"esp":"cincuenta-nueve" ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"sixty"          ,"esp":"sesenta"         ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"sixty-one"      ,"esp":"sesenta-uno"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"sixty-two"      ,"esp":"sesenta-dos"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"sixty-three"    ,"esp":"sesenta-tres"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"sixty-four"     ,"esp":"sesenta-cuatro"  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"sixty-five"     ,"esp":"sesenta-cinco"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"sixty-six"      ,"esp":"sesenta-seis"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"sixty-seven"    ,"esp":"sesenta-siete"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"sixty-eight"    ,"esp":"sesenta-ocho"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"sixty-nine"     ,"esp":"sesenta-nueve"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"seventy"        ,"esp":"setenta"         ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"seventy-one"    ,"esp":"setenta-uno"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"seventy-two"    ,"esp":"setenta-dos"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"seventy-three"  ,"esp":"setenta-tres"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"seventy-four"   ,"esp":"setenta-cuatro"  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"seventy-five"   ,"esp":"setenta-cinco"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"seventy-six"    ,"esp":"setenta-seis"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"seventy-seven"  ,"esp":"setenta-siete"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"seventy-eight"  ,"esp":"setenta-ocho"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"seventy-nine"   ,"esp":"setenta-nueve"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"eighty"         ,"esp":"ochenta"         ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"eighty-one"     ,"esp":"ochenta-uno"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"eighty-two"     ,"esp":"ochenta-dos"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"eighty-three"   ,"esp":"ochenta-tres"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"eighty-four"    ,"esp":"ochenta-cuatro"  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"eighty-five"    ,"esp":"ochenta-cinco"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"eighty-six"     ,"esp":"ochenta-seis"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"eighty-seven"   ,"esp":"ochenta-siete"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"eighty-eight"   ,"esp":"ochenta-ocho"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"eighty-nine"    ,"esp":"ochenta-nueve"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"ninety"         ,"esp":"noventa"         ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"ninety-one"     ,"esp":"noventa-uno"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"ninety-two"     ,"esp":"noventa-dos"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"ninety-three"   ,"esp":"noventa-tres"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"ninety-four"    ,"esp":"noventa-cuatro"  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"ninety-five"    ,"esp":"noventa-cinco"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"ninety-six"     ,"esp":"noventa-seis"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"ninety-seven"   ,"esp":"noventa-siete"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"ninety-eight"   ,"esp":"noventa-ocho"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"ninety-nine"    ,"esp":"noventa-nueve"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"hundred"        ,"esp":"ciento"          ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"thousand"       ,"esp":"mil"             ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"million"        ,"esp":"millón"          ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"billion"        ,"esp":"billón"          ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"trillion"       ,"esp":"trillón"         ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      }
     ],
     "local-geography": [
-      {"eng":"state"         ,"esp":"estado"           ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"city"          ,"esp":"cuidad"           ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"city hall"     ,"esp":"ayuntamiento"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"church"        ,"esp":"iglesia"          ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"park"          ,"esp":"parque"           ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"beach"         ,"esp":"playa"            ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"mountain range","esp":"rango de montañas","pics":[],"audio":[],"examples":[]},
-      {"eng":"forest"        ,"esp":"bosque"           ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"town"          ,"esp":"pueblo"           ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"river"         ,"esp":"río"              ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"lighthouse"    ,"esp":"laguna"           ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"castle"        ,"esp":"castillo"         ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"bridge"        ,"esp":"puente"           ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"tunnel"        ,"esp":"túnel"            ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"airport"       ,"esp":"aeropuerto"       ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"subway"        ,"esp":"subterraneo"      ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"hospital"      ,"esp":"hospital"         ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"school"        ,"esp":"escuela"          ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"library"       ,"esp":"biblioteca"       ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"museum"        ,"esp":"museo"            ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"stadium"       ,"esp":"estadio"          ,"pics":[],"audio":[],"examples":[]},    
-      {"eng":"train station" ,"esp":"estación de tren" ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"restaurant"    ,"esp":"restauranté"      ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"cafe"          ,"esp":"café"             ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"fast food"     ,"esp":"comida rápida"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"supermarket"   ,"esp":"supermercado"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"market"        ,"esp":"mercado"          ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"mall"          ,"esp":"mall"             ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"clothing store","esp":"tienda de ropa"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"bookstore"     ,"esp":"tienda de libros" ,"pics":[],"audio":[],"examples":[]}
+      {"eng":"state"         ,"esp":"estado"           ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"city"          ,"esp":"cuidad"           ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"city hall"     ,"esp":"ayuntamiento"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"church"        ,"esp":"iglesia"          ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"park"          ,"esp":"parque"           ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"beach"         ,"esp":"playa"            ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"mountain range","esp":"rango de montañas","pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"forest"        ,"esp":"bosque"           ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"town"          ,"esp":"pueblo"           ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"river"         ,"esp":"río"              ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"lighthouse"    ,"esp":"laguna"           ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"castle"        ,"esp":"castillo"         ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"bridge"        ,"esp":"puente"           ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"tunnel"        ,"esp":"túnel"            ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"airport"       ,"esp":"aeropuerto"       ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"subway"        ,"esp":"subterraneo"      ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"hospital"      ,"esp":"hospital"         ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"school"        ,"esp":"escuela"          ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"library"       ,"esp":"biblioteca"       ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"museum"        ,"esp":"museo"            ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"stadium"       ,"esp":"estadio"          ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },    
+      {"eng":"train station" ,"esp":"estación de tren" ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"restaurant"    ,"esp":"restauranté"      ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"cafe"          ,"esp":"café"             ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"fast food"     ,"esp":"comida rápida"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"supermarket"   ,"esp":"supermercado"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"market"        ,"esp":"mercado"          ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"mall"          ,"esp":"mall"             ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"clothing store","esp":"tienda de ropa"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"bookstore"     ,"esp":"tienda de libros" ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      }
     ],
     "entertainment": [
-      {"eng":"game"         ,"esp":"juego"          ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"concert"      ,"esp":"concierto"      ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"festival"     ,"esp":"festival"       ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"performance"  ,"esp":"rendimiento"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"music venue"  ,"esp":"salón de música","pics":[],"audio":[],"examples":[]},
-      {"eng":"theater"      ,"esp":"teatro"         ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"movie theater","esp":"cine"           ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"art gallery"  ,"esp":"galería de arte","pics":[],"audio":[],"examples":[]},
-      {"eng":"bar"          ,"esp":"bar"            ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"pub"          ,"esp":"pub"            ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"dance"        ,"esp":"bailar"         ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"sing"         ,"esp":"cantar"         ,"pics":[],"audio":[],"examples":[]}, 
-      {"eng":"song"         ,"esp":"canción"        ,"pics":[],"audio":[],"examples":[]} 
+      {"eng":"game"         ,"esp":"juego"          ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"concert"      ,"esp":"concierto"      ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"festival"     ,"esp":"festival"       ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"performance"  ,"esp":"rendimiento"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"music venue"  ,"esp":"salón de música","pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"theater"      ,"esp":"teatro"         ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"movie theater","esp":"cine"           ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"art gallery"  ,"esp":"galería de arte","pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"bar"          ,"esp":"bar"            ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"pub"          ,"esp":"pub"            ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"dance"        ,"esp":"bailar"         ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"sing"         ,"esp":"cantar"         ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      }, 
+      {"eng":"song"         ,"esp":"canción"        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      } 
     ],
     "finance": [
-      {"eng":"bank"             ,"esp":"banco"              ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"cash"             ,"esp":"dinero"             ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"credit card"      ,"esp":"tarjeta de crédito" ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"debit card"       ,"esp":"tarjeta de débito"  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"atm"              ,"esp":"caja fuerte"        ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"loan"             ,"esp":"préstamo"           ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"savings"          ,"esp":"ahorros"            ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"stock market"     ,"esp":"mercado de acciones","pics":[],"audio":[],"examples":[]},
-      {"eng":"stock exchange"   ,"esp":"bolsa de valores"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"currency exchange","esp":"cambio de moneda"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"exchange rate"    ,"esp":"tasa de cambio"     ,"pics":[],"audio":[],"examples":[]}
+      {"eng":"bank"             ,"esp":"banco"              ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"cash"             ,"esp":"dinero"             ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"credit card"      ,"esp":"tarjeta de crédito" ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"debit card"       ,"esp":"tarjeta de débito"  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"atm"              ,"esp":"caja fuerte"        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"loan"             ,"esp":"préstamo"           ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"savings"          ,"esp":"ahorros"            ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"stock market"     ,"esp":"mercado de acciones","pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"stock exchange"   ,"esp":"bolsa de valores"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"currency exchange","esp":"cambio de moneda"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"exchange rate"    ,"esp":"tasa de cambio"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      }
     ],
     "transportation": [
-      {"eng":"car"       ,"esp":"coche"      ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"bus"       ,"esp":"autobús"    ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"train"     ,"esp":"tren"       ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"subway"    ,"esp":"subterraneo","pics":[],"audio":[],"examples":[]},
-      {"eng":"tram"      ,"esp":"trolebús"   ,"pics":[],"audio":[],"examples":[]},	
-      {"eng":"airplane"  ,"esp":"avión"      ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"boat"      ,"esp":"barco"      ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"helicopter","esp":"helicóptero","pics":[],"audio":[],"examples":[]},
-      {"eng":"motorcycle","esp":"motocicleta","pics":[],"audio":[],"examples":[]},
-      {"eng":"bicycle"   ,"esp":"bicicleta"  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"motorbike" ,"esp":"motocicleta","pics":[],"audio":[],"examples":[]},
-      {"eng":"taxi"      ,"esp":"taxi"       ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"scooter"   ,"esp":"patinete"   ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"moped"     ,"esp":"ciclomoto"  ,"pics":[],"audio":[],"examples":[]}
+      {"eng":"car"       ,"esp":"coche"      ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"bus"       ,"esp":"autobús"    ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"train"     ,"esp":"tren"       ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"subway"    ,"esp":"subterraneo","pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"tram"      ,"esp":"trolebús"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },	
+      {"eng":"airplane"  ,"esp":"avión"      ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"boat"      ,"esp":"barco"      ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"helicopter","esp":"helicóptero","pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"motorcycle","esp":"motocicleta","pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"bicycle"   ,"esp":"bicicleta"  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"motorbike" ,"esp":"motocicleta","pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"taxi"      ,"esp":"taxi"       ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"scooter"   ,"esp":"patinete"   ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"moped"     ,"esp":"ciclomoto"  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      }
     ],
     "foods": [
-      {"eng":"hamburger"   ,"esp":"hamburguesa"          ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"pizza"       ,"esp":"pizza"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"spaghetti"   ,"esp":"espaguetis"           ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"sushi"       ,"esp":"sushi"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"pork"        ,"esp":"cerdo"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"steak"       ,"esp":"bistec"               ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"duck"     ,"esp":"pato"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"turkey"     ,"esp":"pavo"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"chicken"     ,"esp":"pollo"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"rice"        ,"esp":"arroz"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"noodles"     ,"esp":"fideos"               ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"pasta"       ,"esp":"pasta"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"tomato"      ,"esp":"tomate"               ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"onion"       ,"esp":"cebolla"              ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"garlic"      ,"esp":"ajo"                  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"pepper"      ,"esp":"pimienta"             ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"cabbage"     ,"esp":"col"                  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"broccoli"    ,"esp":"brócoli"              ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"carrot"      ,"esp":"zanahoria"            ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"lettuce"     ,"esp":"lechuga"              ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"tomato sauce","esp":"aceite de tomate"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"cheese"      ,"esp":"queso"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"bread"       ,"esp":"pan"                  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"butter"      ,"esp":"mantequilla"          ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"milk"        ,"esp":"leche"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"cheeseburger","esp":"hamburguesa con queso","pics":[],"audio":[],"examples":[]},
-      {"eng":"french fries","esp":"papas fritas"         ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"burrito"     ,"esp":"burrito"              ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"taco"        ,"esp":"taco"                 ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"toast"       ,"esp":"tostada"              ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"tacos"       ,"esp":"tacos"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"salad"       ,"esp":"ensalada"             ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"salsa"       ,"esp":"salsa"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"plantain"    ,"esp":"plátano"              ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"avocado"     ,"esp":"avo"                  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"banana"      ,"esp":"plátano"              ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"orange"      ,"esp":"naranja"              ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"grape"       ,"esp":"uva"                  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"apple"       ,"esp":"manzana"              ,"pics":[],"audio":[],"examples":[]}
+      {"eng":"hamburger"   ,"esp":"hamburguesa"          ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"pizza"       ,"esp":"pizza"                ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"spaghetti"   ,"esp":"espaguetis"           ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"sushi"       ,"esp":"sushi"                ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"pork"        ,"esp":"cerdo"                ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"steak"       ,"esp":"bistec"               ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"duck"     ,"esp":"pato"                ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"turkey"     ,"esp":"pavo"                ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"chicken"     ,"esp":"pollo"                ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"rice"        ,"esp":"arroz"                ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"noodles"     ,"esp":"fideos"               ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"pasta"       ,"esp":"pasta"                ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"tomato"      ,"esp":"tomate"               ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"onion"       ,"esp":"cebolla"              ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"garlic"      ,"esp":"ajo"                  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"pepper"      ,"esp":"pimienta"             ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"cabbage"     ,"esp":"col"                  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"broccoli"    ,"esp":"brócoli"              ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"carrot"      ,"esp":"zanahoria"            ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"lettuce"     ,"esp":"lechuga"              ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"tomato sauce","esp":"aceite de tomate"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"cheese"      ,"esp":"queso"                ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"bread"       ,"esp":"pan"                  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"butter"      ,"esp":"mantequilla"          ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"cheeseburger","esp":"hamburguesa con queso","pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"french fries","esp":"papas fritas"         ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"burrito"     ,"esp":"burrito"              ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"taco"        ,"esp":"taco"                 ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"toast"       ,"esp":"tostada"              ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"tacos"       ,"esp":"tacos"                ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"salad"       ,"esp":"ensalada"             ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"salsa"       ,"esp":"salsa"                ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"plantain"    ,"esp":"plátano"              ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"avocado"     ,"esp":"avo"                  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"banana"      ,"esp":"plátano"              ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"orange"      ,"esp":"naranja"              ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"grape"       ,"esp":"uva"                  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"apple"       ,"esp":"manzana"              ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      }
     ],
     "drinks": [
-      {"eng":"water"       ,"esp":"agua"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"juice"       ,"esp":"jugo"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"orange juice","esp":"jugo de naranja"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"apple juice" ,"esp":"jugo de manzana"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"milk"        ,"esp":"leche"               ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"soda"        ,"esp":"soda"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"lemonade"    ,"esp":"limonada"            ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"coffee"      ,"esp":"café"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"tea"         ,"esp":"té"                  ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"wine"        ,"esp":"vino"                ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"red wine"    ,"esp":"vino rojo"           ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"white wine"  ,"esp":"vino blanco"         ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"spirits"     ,"esp":"bebidas espirituosas","pics":[],"audio":[],"examples":[]},
-      {"eng":"champagne"   ,"esp":"champán"             ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"beer"        ,"esp":"cerveza"             ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"wine glass"  ,"esp":"vaso de vino"        ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"bottle"      ,"esp":"botella"             ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"wine bottle" ,"esp":"botella de vino"     ,"pics":[],"audio":[],"examples":[]},
-      {"eng":"wine cooler" ,"esp":"estufa de vino"      ,"pics":[],"audio":[],"examples":[]}
+      {"eng":"water"       ,"esp":"agua"                ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"juice"       ,"esp":"jugo"                ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"orange juice","esp":"jugo de naranja"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"apple juice" ,"esp":"jugo de manzana"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"milk"        ,"esp":"leche"               ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"soda"        ,"esp":"soda"                ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"lemonade"    ,"esp":"limonada"            ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"coffee"      ,"esp":"café"                ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"tea"         ,"esp":"té"                  ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"wine"        ,"esp":"vino"                ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"red wine"    ,"esp":"vino rojo"           ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"white wine"  ,"esp":"vino blanco"         ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"spirits"     ,"esp":"bebidas espirituosas","pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"champagne"   ,"esp":"champán"             ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"beer"        ,"esp":"cerveza"             ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"wine glass"  ,"esp":"vaso de vino"        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"bottle"      ,"esp":"botella"             ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"wine bottle" ,"esp":"botella de vino"     ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"wine cooler" ,"esp":"estufa de vino"      ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      }
     ]
   },
   "spanishToEnglish": {
