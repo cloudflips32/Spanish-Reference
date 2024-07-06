@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 2px dotted #000;
+}
+
+html, code {
+  border-radius: 10px black solid;
+}
+
+body {
+  height: 100vh;
+  margin: 0 auto;
+  max-width: 375px;
+  overflow-y: scroll;
+}
+
+header {
+  width: 100%;
+}
+
+header h3 {
+  text-align: center;
+  width: 100%;
+}
+
+main {
+  text-align: center;
+}
+
+.container {
+  margin: 20px;
+}
+
+section {
+  margin: 10px;
+  height: 150px;
+}
+
+footer {
+  text-align: center;
+  width: 100%;
+  top: 200px;
+}

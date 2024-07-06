@@ -3,65 +3,65 @@
     "daysOfWeek": [
       {"eng":"monday"   ,"spa":"lunes"     
         ,"pics":[
-          
+          {"eng":"monday"   ,"spa":"lunes"}
         ],"audio":[
-
+          {"eng":"monday"   ,"spa":"lunes"}
         ],"example-sentance":[
-
+          {"eng":"monday"   ,"spa":"lunes"}
         ]
       },
       {"eng":"tuesday"  ,"spa":"martes"    
         ,"pics":[
-
+          {"eng":"tuesday"  ,"spa":"martes"}
         ],"audio":[
-
+          {"eng":"tuesday"  ,"spa":"martes"}
         ],"example-sentance":[
-
+          {"eng":"tuesday"  ,"spa":"martes"}
         ]
       },
       {"eng":"wednesday","spa": "miercoles"
         ,"pics":[
-
+          {"eng":"wednesday","spa": "miercoles"}
         ],"audio":[
-
+          {"eng":"wednesday","spa": "miercoles"}
         ],"example-sentance":[
-
+          {"eng":"wednesday","spa": "miercoles"}
         ]
       },
       {"eng":"thursday" ,"spa":"jueves"    
         ,"pics":[
-
+          {"eng":"thursday" ,"spa":"jueves"}
         ],"audio":[
-
+          {"eng":"thursday" ,"spa":"jueves"}
         ],"example-sentance":[
-
+          {"eng":"thursday" ,"spa":"jueves"}
         ]
       },
       {"eng":"friday"   ,"spa":"viernes"   
         ,"pics":[
-
+          {"eng":"friday"   ,"spa":"viernes"}
         ],"audio":[
-
+          {"eng":"friday"   ,"spa":"viernes"}
         ],"example-sentance":[
-
+          {"eng":"friday"   ,"spa":"viernes"}
         ]
       },
       {"eng":"saturday" ,"spa":"sabado"    
         ,"pics":[
-
+          {"eng":"saturday" ,"spa":"sabado"}
         ],"audio":[
-
+          {"eng":"saturday" ,"spa":"sabado"}
         ],"example-sentance":[
-
+          {"eng":"saturday" ,"spa":"sabado"}
         ]
       },
       {"eng":"sunday"   ,"spa":"domingo"   
         ,"pics":[
-
+          {"eng":"sunday"   ,"spa":"domingo"}
         ],"audio":[
-
+          {"eng":"sunday"   ,"spa":"domingo"}
         ],"example-sentance":[
-
+          {"eng":"sunday"   ,"spa":"domingo"}
         ]
       }
     ],
