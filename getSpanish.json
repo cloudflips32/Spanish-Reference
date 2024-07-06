@@ -2323,6 +2323,179 @@
 
         ]
       }
+    ],
+    "family": [
+      {"eng":"son" ,"spa":"hijo"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"daughter" ,"spa":"hija"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"father" ,"spa":"padre"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"stepfather" ,"spa":"padrastro"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"mother" ,"spa":"madre"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"stepmother" ,"spa":"madrastro"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"brother" ,"spa":"hermano"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"stepbrother" ,"spa":"hermanastro"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"sister" ,"spa":"hermana"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"stepsister" ,"spa":"hermanastra"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"grandfather" ,"spa":"abuelo"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"grandmother" ,"spa":"abuela"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"great grandfather" ,"spa":"bisabuelo"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"great grandmother" ,"spa":"bisabuela"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"godfather" ,"spa":"padrino"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"godmother" ,"spa":"padrina"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"nephew" ,"spa":"sobrino"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"niece" ,"spa":"sobrina"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"cousin" ,"spa":"primo"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      }
     ]
   },
   "spanishToEnglish": {
