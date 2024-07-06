@@ -1,4 +1,6 @@
-document.addEventListener("DOMContentLoaded", function(x=1,y=2) {
-  let sum = x + y; 
+document.addEventListener("DOMContentLoaded", function(sum) {
+  let x = 1;
+  let y = 2;
+  sum = x + y; 
   console.log(sum);
 });
