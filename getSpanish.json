@@ -1819,7 +1819,7 @@
       },
       {"eng":"pizza"       ,"spa":"pizza"                
         ,"pics":[
-
+          "./pics/pizza.jpeg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1999,7 +1999,7 @@
       },
       {"eng":"cheese"      ,"spa":"queso"                
         ,"pics":[
-
+          "./pics/cheese.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -2149,6 +2149,15 @@
         ],"example-sentance":[
 
         ]
+      },
+      {"eng":"eggs"       ,"spa":"huevos"              
+        ,"pics":[
+          "./pics/eggs.jpg"
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
       }
     ],
     "drinks": [
@@ -2190,7 +2199,7 @@
       },
       {"eng":"milk"        ,"spa":"leche"               
         ,"pics":[
-
+          "./pics/milk.jpeg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -2217,7 +2226,7 @@
       },
       {"eng":"coffee"      ,"spa":"café"                
         ,"pics":[
-
+          "./pics/coffee.jpg"
         ],"audio":[
 
         ],"example-sentance":[
