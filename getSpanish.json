@@ -2505,6 +2505,35 @@
 
         ]
       }
+    ],
+    "professionals": [
+      {"eng":"teacher" ,   "spa":"profesor"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"doctor" ,   "spa":"doctor"     
+        ,"pics":[
+
+        ],"audio":[
+        
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"engineer" , "spa":"ingeniero"     
+        ,"pics":[
+          
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      }
     ]
   },
   "spanishToEnglish": {
