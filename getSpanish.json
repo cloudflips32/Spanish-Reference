@@ -2533,6 +2533,141 @@
         ],"example-sentance":[
 
         ]
+      },
+      {"eng":"baker" , "spa":"panadero"     
+        ,"pics":[
+          
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"lawyer" , "spa":"abogado"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"policeman" , "spa":"policía"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"firefighter" , "spa":"bombero"     
+        ,"pics":[
+        
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"musician" , "spa":"músico"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"actor" , "spa":"actor"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"chef" , "spa":"cocinero"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+        
+        ]
+      },
+      {"eng":"politician" , "spa":"político"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"writer" , "spa":"escritor"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"farmer" , "spa":"granjero"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"waiter" , "spa":"camarero"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"pilot" , "spa":"piloto"     
+        ,"pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"paramedic","spa":"paramédico",
+        "pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"receptionist","spa":"recepcionista",
+        "pics":[
+
+        ],"audio":[
+
+        ],"example-sentance":[
+
+        ]
+      },
+      {"eng":"assistant","spa":"asistente",
+        "pics":[
+        
+        ],"audio":[
+        
+        ],"example-sentance":[
+
+        ]
       }
     ]
   },
