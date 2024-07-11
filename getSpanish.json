@@ -2035,7 +2035,7 @@
       },
       {"eng":"french fries","spa":"papas fritas"         
         ,"pics":[
-
+          "/pics/french-fries.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -2044,7 +2044,7 @@
       },
       {"eng":"burrito"     ,"spa":"burrito"              
         ,"pics":[
-
+          "/pics/burrito.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -2053,7 +2053,7 @@
       },
       {"eng":"taco"        ,"spa":"taco"                 
         ,"pics":[
-
+          "/pics/taco.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -2062,7 +2062,7 @@
       },
       {"eng":"toast"       ,"spa":"tostada"              
         ,"pics":[
-
+          "/pics/toast.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -2071,7 +2071,7 @@
       },
       {"eng":"tacos"       ,"spa":"tacos"                
         ,"pics":[
-
+          "/pics/taco.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -2080,7 +2080,7 @@
       },
       {"eng":"salad"       ,"spa":"ensalada"             
         ,"pics":[
-
+          "/pics/salad.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -2089,7 +2089,7 @@
       },
       {"eng":"salsa"       ,"spa":"salsa"                
         ,"pics":[
-
+          "/pics/salsa.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -2098,7 +2098,7 @@
       },
       {"eng":"plantain"    ,"spa":"plátano"              
         ,"pics":[
-
+          "/pics/plantain.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -2107,7 +2107,7 @@
       },
       {"eng":"avocado"     ,"spa":"avo"                  
         ,"pics":[
-
+          "/pics/avocado.jpg"
         ],"audio":[
 
         ],"example-sentance":[
