@@ -1190,7 +1190,7 @@
     "local-geography": [
       {"eng":"state"         ,"spa":"estado"           
         ,"pics":[
-
+          "/pics/state.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1199,7 +1199,7 @@
       },
       {"eng":"city"          ,"spa":"cuidad"           
         ,"pics":[
-
+          "/pics/city.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1208,7 +1208,7 @@
       },
       {"eng":"city hall"     ,"spa":"ayuntamiento"     
         ,"pics":[
-
+          "/pics/city-hall.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1217,7 +1217,7 @@
       },
       {"eng":"church"        ,"spa":"iglesia"          
         ,"pics":[
-
+          "/pics/church.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1226,7 +1226,7 @@
       },
       {"eng":"park"          ,"spa":"parque"           
         ,"pics":[
-
+          "/pics/park.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1235,7 +1235,7 @@
       },
       {"eng":"beach"         ,"spa":"playa"            
         ,"pics":[
-
+          "/pics/beach.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1244,7 +1244,7 @@
       },
       {"eng":"mountain range","spa":"rango de montañas"
         ,"pics":[
-
+          "/pics/mountain.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1253,7 +1253,7 @@
       },
       {"eng":"forest"        ,"spa":"bosque"           
         ,"pics":[
-
+          "/pics/foest.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1262,7 +1262,7 @@
       },
       {"eng":"town"          ,"spa":"pueblo"           
         ,"pics":[
-
+          "/pics/town.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1271,7 +1271,7 @@
       },
       {"eng":"river"         ,"spa":"río"              
         ,"pics":[
-
+          "/pics/river.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1280,7 +1280,7 @@
       },
       {"eng":"lighthouse"    ,"spa":"laguna"           
         ,"pics":[
-
+          "/pics/lighthouse.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1289,7 +1289,7 @@
       },
       {"eng":"castle"        ,"spa":"castillo"         
         ,"pics":[
-
+          "/pics/castle.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1298,7 +1298,7 @@
       },
       {"eng":"bridge"        ,"spa":"puente"           
         ,"pics":[
-
+          "/pics/bridge.jpeg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1307,7 +1307,7 @@
       },
       {"eng":"tunnel"        ,"spa":"túnel"            
         ,"pics":[
-
+          "/pics/tunnel.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1316,7 +1316,7 @@
       },
       {"eng":"airport"       ,"spa":"aeropuerto"       
         ,"pics":[
-
+          "/pics/airport.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1325,7 +1325,7 @@
       },
       {"eng":"subway"        ,"spa":"subterraneo"      
         ,"pics":[
-
+          "/pics/subway.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1334,7 +1334,7 @@
       },
       {"eng":"hospital"      ,"spa":"hospital"         
         ,"pics":[
-
+          "/pics/hospital.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1343,7 +1343,7 @@
       },
       {"eng":"school"        ,"spa":"escuela"          
         ,"pics":[
-
+          "/pics/school.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1352,7 +1352,7 @@
       },
       {"eng":"library"       ,"spa":"biblioteca"       
         ,"pics":[
-
+          "/pics/library.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1361,7 +1361,7 @@
       },
       {"eng":"museum"        ,"spa":"museo"            
         ,"pics":[
-
+          "/pics/museum.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1370,7 +1370,7 @@
       },
       {"eng":"stadium"       ,"spa":"estadio"          
         ,"pics":[
-
+          "/pics/stadium.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1379,7 +1379,7 @@
       },    
       {"eng":"train station" ,"spa":"estación de tren" 
         ,"pics":[
-
+          "/pics/train-station.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1388,7 +1388,7 @@
       },
       {"eng":"restaurant"    ,"spa":"restauranté"      
         ,"pics":[
-
+          "/pics/restaurant.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1397,7 +1397,7 @@
       },
       {"eng":"cafe"          ,"spa":"café"             
         ,"pics":[
-
+          "/pics/cafe.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1406,7 +1406,7 @@
       },
       {"eng":"fast food"     ,"spa":"comida rápida"    
         ,"pics":[
-
+          "/pics/fastfood.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1415,7 +1415,7 @@
       },
       {"eng":"supermarket"   ,"spa":"supermercado"     
         ,"pics":[
-
+          "/pics/supermarket.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1424,7 +1424,7 @@
       },
       {"eng":"market"        ,"spa":"mercado"          
         ,"pics":[
-
+          "/pics/market.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1433,7 +1433,7 @@
       },
       {"eng":"mall"          ,"spa":"mall"             
         ,"pics":[
-
+          "/pics/mall.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1442,7 +1442,7 @@
       },
       {"eng":"clothing store","spa":"tienda de ropa"   
         ,"pics":[
-
+          "/pics/clothing-store.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1451,7 +1451,7 @@
       },
       {"eng":"bookstore"     ,"spa":"tienda de libros" 
         ,"pics":[
-
+          "/pics/bookstore.jpg"
         ],"audio":[
 
         ],"example-sentance":[
