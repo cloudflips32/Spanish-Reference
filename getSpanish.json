@@ -1,9 +1,18 @@
 {
   "englishToSpanish": {
     "daysOfWeek": [
+      {"eng":"sunday"   ,"spa":"domingo"   
+        ,"pics":[
+          "/pics/sunday.jpg"
+        ],"audio":[
+          {"eng":"sunday"   ,"spa":"domingo"}
+        ],"example-sentance":[
+          {"eng":"sunday"   ,"spa":"domingo"}
+        ]
+      },
       {"eng":"monday"   ,"spa":"lunes"     
         ,"pics":[
-          {"eng":"monday"   ,"spa":"lunes"}
+          "/pics/monday.jpg"
         ],"audio":[
           {"eng":"monday"   ,"spa":"lunes"}
         ],"example-sentance":[
@@ -12,7 +21,7 @@
       },
       {"eng":"tuesday"  ,"spa":"martes"    
         ,"pics":[
-          {"eng":"tuesday"  ,"spa":"martes"}
+          "/pics/tuesday.jpg"
         ],"audio":[
           {"eng":"tuesday"  ,"spa":"martes"}
         ],"example-sentance":[
@@ -21,7 +30,7 @@
       },
       {"eng":"wednesday","spa": "miercoles"
         ,"pics":[
-          {"eng":"wednesday","spa": "miercoles"}
+          "/pics/wednesday.jpg"
         ],"audio":[
           {"eng":"wednesday","spa": "miercoles"}
         ],"example-sentance":[
@@ -30,7 +39,7 @@
       },
       {"eng":"thursday" ,"spa":"jueves"    
         ,"pics":[
-          {"eng":"thursday" ,"spa":"jueves"}
+          "/pics/thursday.jpg"
         ],"audio":[
           {"eng":"thursday" ,"spa":"jueves"}
         ],"example-sentance":[
@@ -39,7 +48,7 @@
       },
       {"eng":"friday"   ,"spa":"viernes"   
         ,"pics":[
-          {"eng":"friday"   ,"spa":"viernes"}
+          "/pics/friday.jpg"
         ],"audio":[
           {"eng":"friday"   ,"spa":"viernes"}
         ],"example-sentance":[
@@ -48,20 +57,11 @@
       },
       {"eng":"saturday" ,"spa":"sabado"    
         ,"pics":[
-          {"eng":"saturday" ,"spa":"sabado"}
+          "/pics/saturday.jpg"
         ],"audio":[
           {"eng":"saturday" ,"spa":"sabado"}
         ],"example-sentance":[
           {"eng":"saturday" ,"spa":"sabado"}
-        ]
-      },
-      {"eng":"sunday"   ,"spa":"domingo"   
-        ,"pics":[
-          {"eng":"sunday"   ,"spa":"domingo"}
-        ],"audio":[
-          {"eng":"sunday"   ,"spa":"domingo"}
-        ],"example-sentance":[
-          {"eng":"sunday"   ,"spa":"domingo"}
         ]
       }
     ],
