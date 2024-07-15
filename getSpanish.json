@@ -1462,7 +1462,7 @@
     "entertainment": [
       {"eng":"game"         ,"spa":"juego"          
         ,"pics":[
-
+          "/pics/game.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1471,7 +1471,7 @@
       },
       {"eng":"concert"      ,"spa":"concierto"      
         ,"pics":[
-
+          "/pics/concert.jpg"          
         ],"audio":[
 
         ],"example-sentance":[
@@ -1480,7 +1480,7 @@
       },
       {"eng":"festival"     ,"spa":"festival"       
         ,"pics":[
-
+          "/pics/festival.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1489,7 +1489,7 @@
       },
       {"eng":"performance"  ,"spa":"rendimiento"    
         ,"pics":[
-
+          "/pics/concert.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1498,7 +1498,7 @@
       },
       {"eng":"music venue"  ,"spa":"salón de música"
         ,"pics":[
-
+          "/pics/concert.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1507,7 +1507,7 @@
       },
       {"eng":"theater"      ,"spa":"teatro"         
         ,"pics":[
-
+          "/pics/theater.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1516,7 +1516,7 @@
       },
       {"eng":"movie theater","spa":"cine"           
         ,"pics":[
-
+          "/pics/movie-theater.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1525,7 +1525,7 @@
       },
       {"eng":"art gallery"  ,"spa":"galería de arte"
         ,"pics":[
-
+          "/pics/art-gallery.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1534,7 +1534,7 @@
       },
       {"eng":"bar"          ,"spa":"bar"            
         ,"pics":[
-
+          "/pics/bar.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1543,7 +1543,7 @@
       },
       {"eng":"pub"          ,"spa":"pub"            
         ,"pics":[
-
+          "/pics/bar.jpg"
         ],"audio":[
 
         ],"example-sentance":[
