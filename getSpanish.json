@@ -1552,7 +1552,7 @@
       },
       {"eng":"dance"        ,"spa":"bailar"         
         ,"pics":[
-
+          "/pics/dance.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1561,7 +1561,7 @@
       },
       {"eng":"sing"         ,"spa":"cantar"         
         ,"pics":[
-
+          "/pics/sing.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1570,7 +1570,7 @@
       }, 
       {"eng":"song"         ,"spa":"canción"        
         ,"pics":[
-
+          "/pics/song.jpg"
         ],"audio":[
 
         ],"example-sentance":[
