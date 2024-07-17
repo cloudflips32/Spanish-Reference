@@ -1581,7 +1581,7 @@
     "finance": [
       {"eng":"bank",        "spa":"banco"              
         ,"pics":[
-
+          "/pics/bank.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1590,7 +1590,7 @@
       },
       {"eng":"cash",        "spa":"dinero"             
         ,"pics":[
-
+          "/pics/cash.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1599,7 +1599,7 @@
       },
       {"eng":"credit card"      ,"spa":"tarjeta de crédito" 
         ,"pics":[
-
+          "/pics/debit-card.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1608,7 +1608,7 @@
       },
       {"eng":"debit card"       ,"spa":"tarjeta de débito"  
         ,"pics":[
-
+          "/pics/debit-card.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1617,7 +1617,7 @@
       },
       {"eng":"atm"              ,"spa":"caja fuerte"        
         ,"pics":[
-
+          "/pics/"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1626,7 +1626,7 @@
       },
       {"eng":"loan"             ,"spa":"préstamo"           
         ,"pics":[
-
+          "/pics/loan.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1635,7 +1635,7 @@
       },
       {"eng":"savings"          ,"spa":"ahorros"            
         ,"pics":[
-
+          "/pics/savings.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1644,7 +1644,7 @@
       },
       {"eng":"stock market"     ,"spa":"mercado de acciones"
         ,"pics":[
-
+          "/pics/stock-exchange.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1653,7 +1653,7 @@
       },
       {"eng":"stock exchange"   ,"spa":"bolsa de valores"   
         ,"pics":[
-
+          "/pics/stock-exchange.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1662,7 +1662,7 @@
       },
       {"eng":"currency exchange","spa":"cambio de moneda"   
         ,"pics":[
-
+          "/pics/currency-exchange.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -1671,7 +1671,7 @@
       },
       {"eng":"exchange rate"    ,"spa":"tasa de cambio"     
         ,"pics":[
-
+          "/pics/exchange-rate.jpg"
         ],"audio":[
 
         ],"example-sentance":[
