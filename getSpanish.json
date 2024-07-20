@@ -252,7 +252,7 @@
     "counting": [
       {"eng":"one"            ,"spa":"uno"             
         ,"pics":[
-
+          "/pics/one.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -261,7 +261,7 @@
       },
       {"eng":"two"            ,"spa":"dos"             
         ,"pics":[
-
+          "/pics/two.png"
         ],"audio":[
 
         ],"example-sentance":[
@@ -270,7 +270,7 @@
       },
       {"eng":"three"          ,"spa":"tres"            
         ,"pics":[
-
+          "/pics/three.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -279,7 +279,7 @@
       },
       {"eng":"four"           ,"spa":"cuatro"          
         ,"pics":[
-
+          "/pics/four.png"
         ],"audio":[
 
         ],"example-sentance":[
@@ -288,7 +288,7 @@
       },
       {"eng":"five"           ,"spa":"cinco"           
         ,"pics":[
-
+          "/pics/five.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -297,7 +297,7 @@
       },
       {"eng":"six"            ,"spa":"seis"            
         ,"pics":[
-
+          "/pics/six.jpg"
         ],"audio":[
 
         ],"example-sentance":[
@@ -306,7 +306,7 @@
       },
       {"eng":"seven"          ,"spa":"siete"           
         ,"pics":[
-
+          "/pics/seven.png"
         ],"audio":[
 
         ],"example-sentance":[
@@ -315,7 +315,7 @@
       },
       {"eng":"eight"          ,"spa":"otro"            
         ,"pics":[
-
+          "/pics/eight.png"
         ],"audio":[
 
         ],"example-sentance":[
@@ -324,7 +324,7 @@
       },
       {"eng":"nine"           ,"spa":"nueve"           
         ,"pics":[
-
+          "/pics/nine.png"
         ],"audio":[
 
         ],"example-sentance":[
@@ -333,7 +333,7 @@
       },
       {"eng":"ten"            ,"spa":"diez"            
         ,"pics":[
-
+          "/pics/ten.png"
         ],"audio":[
 
         ],"example-sentance":[
