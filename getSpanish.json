@@ -1,7 +1,7 @@
 {
   "englishToSpanish": {
     "daysOfWeek": [
-      {"eng":"sunday"   ,"spa":"domingo"   
+      {"id":"",    "eng":"sunday"   ,"spa":"domingo"   
         ,"pics":[
           "/pics/sunday.jpg"
         ],"audio":[
@@ -10,7 +10,7 @@
           {"eng":"sunday"   ,"spa":"domingo"}
         ]
       },
-      {"eng":"monday"   ,"spa":"lunes"     
+      {"id":"",    "eng":"monday"   ,"spa":"lunes"     
         ,"pics":[
           "/pics/monday.jpg"
         ],"audio":[
@@ -19,7 +19,7 @@
           {"eng":"monday"   ,"spa":"lunes"}
         ]
       },
-      {"eng":"tuesday"  ,"spa":"martes"    
+      {"id":"",    "eng":"tuesday"  ,"spa":"martes"    
         ,"pics":[
           "/pics/tuesday.jpg"
         ],"audio":[
@@ -28,7 +28,7 @@
           {"eng":"tuesday"  ,"spa":"martes"}
         ]
       },
-      {"eng":"wednesday","spa": "miercoles"
+      {"id":"",    "eng":"wednesday","spa": "miercoles"
         ,"pics":[
           "/pics/wednesday.jpg"
         ],"audio":[
@@ -37,7 +37,7 @@
           {"eng":"wednesday","spa": "miercoles"}
         ]
       },
-      {"eng":"thursday" ,"spa":"jueves"    
+      {"id":"",    "eng":"thursday" ,"spa":"jueves"    
         ,"pics":[
           "/pics/thursday.jpg"
         ],"audio":[
@@ -46,7 +46,7 @@
           {"eng":"thursday" ,"spa":"jueves"}
         ]
       },
-      {"eng":"friday"   ,"spa":"viernes"   
+      {"id":"",    "eng":"friday"   ,"spa":"viernes"   
         ,"pics":[
           "/pics/friday.jpg"
         ],"audio":[
@@ -55,7 +55,7 @@
           {"eng":"friday"   ,"spa":"viernes"}
         ]
       },
-      {"eng":"saturday" ,"spa":"sabado"    
+      {"id":"",    "eng":"saturday" ,"spa":"sabado"    
         ,"pics":[
           "/pics/saturday.jpg"
         ],"audio":[
@@ -66,7 +66,7 @@
       }
     ],
     "months": [
-      {"eng":"january"  ,"spa":"enero"     
+      {"id":"",    "eng":"january"  ,"spa":"enero"     
         ,"pics":[
 
         ],"audio":[
@@ -75,7 +75,7 @@
           {"eng":"january"  ,"spa":"enero"}
         ]
       },
-      {"eng":"february" ,"spa":"febrero"   
+      {"id":"",    "eng":"february" ,"spa":"febrero"   
         ,"pics":[
 
         ],"audio":[
@@ -84,7 +84,7 @@
           {"eng":"february" ,"spa":"febrero"}
         ]
       },
-      {"eng":"march"    ,"spa":"marcha"    
+      {"id":"",    "eng":"march"    ,"spa":"marcha"    
         ,"pics":[
           
         ],"audio":[
@@ -93,7 +93,7 @@
           {"eng":"march"    ,"spa":"marcha"}
         ]
       },
-      {"eng":"april"    ,"spa":"abril"     
+      {"id":"",    "eng":"april"    ,"spa":"abril"     
         ,"pics":[
 
         ],"audio":[
@@ -102,7 +102,7 @@
           {"eng":"april"    ,"spa":"abril"}
         ]
       },
-      {"eng":"may"      ,"spa":"mayo"      
+      {"id":"",    "eng":"may"      ,"spa":"mayo"      
         ,"pics":[
 
         ],"audio":[
@@ -111,7 +111,7 @@
           {"eng":"may"      ,"spa":"mayo"}
         ]
       },
-      {"eng":"june"     ,"spa":"junio"     
+      {"id":"",    "eng":"june"     ,"spa":"junio"     
         ,"pics":[
 
         ],"audio":[
@@ -120,7 +120,7 @@
           {"eng":"june"     ,"spa":"junio"}
         ]
       },
-      {"eng":"july"     ,"spa":"julio"     
+      {"id":"",    "eng":"july"     ,"spa":"julio"     
         ,"pics":[
 
         ],"audio":[
@@ -129,7 +129,7 @@
           {"eng":"july"     ,"spa":"julio"}
         ]
       },
-      {"eng":"august"   ,"spa":"augusto"   
+      {"id":"",    "eng":"august"   ,"spa":"augusto"   
         ,"pics":[
 
         ],"audio":[
@@ -138,7 +138,7 @@
           {"eng":"august"   ,"spa":"augusto"}
         ]
       },
-      {"eng":"september","spa":"septiembre"
+      {"id":"",    "eng":"september","spa":"septiembre"
         ,"pics":[
 
         ],"audio":[
@@ -147,7 +147,7 @@
           {"eng":"september","spa":"septiembre"}
         ]
       },
-      {"eng":"october"  ,"spa":"octubre"   
+      {"id":"",    "eng":"october"  ,"spa":"octubre"   
         ,"pics":[
 
         ],"audio":[
@@ -156,7 +156,7 @@
           {"eng":"october"  ,"spa":"octubre"}
         ]
       },
-      {"eng":"november" ,"spa":"novembre"  
+      {"id":"",    "eng":"november" ,"spa":"novembre"  
         ,"pics":[
 
         ],"audio":[
@@ -165,7 +165,7 @@
           {"eng":"november" ,"spa":"novembre"}
         ]
       },
-      {"eng":"december" ,"spa":"diciembre" 
+      {"id":"",    "eng":"december" ,"spa":"diciembre" 
         ,"pics":[
           
         ],"audio":[
@@ -176,7 +176,7 @@
       }
     ],
     "timeUnits": [
-      {"eng":"seconds"     ,"spa":"segundos"    
+      {"id":"",    "eng":"seconds"     ,"spa":"segundos"    
         ,"pics":[
           "/pics/seconds.jpg"
         ],"audio":[
@@ -185,7 +185,7 @@
 
         ]
       },
-      {"eng":"minutes"     ,"spa":"minutos"     
+      {"id":"",    "eng":"minutes"     ,"spa":"minutos"     
         ,"pics":[
           "/pics/minute.jpg"
         ],"audio":[
@@ -194,7 +194,7 @@
 
         ]
       },
-      {"eng":"hours"       ,"spa":"horas"       
+      {"id":"",    "eng":"hours"       ,"spa":"horas"       
         ,"pics":[
           "/pics/hour.jpg"
         ],"audio":[
@@ -203,7 +203,7 @@
 
         ]
       },
-      {"eng":"days"        ,"spa":"dias"        
+      {"id":"",    "eng":"days"        ,"spa":"dias"        
         ,"pics":[
           "/pics/monday.jpg"
         ],"audio":[
@@ -212,7 +212,7 @@
 
         ]
       },
-      {"eng":"weeks"       ,"spa":"semanas"     
+      {"id":"",    "eng":"weeks"       ,"spa":"semanas"     
         ,"pics":[
           "/pics/week.jpg"
         ],"audio":[
@@ -221,7 +221,7 @@
 
         ]
       },
-      {"eng":"months"      ,"spa":"meses"       
+      {"id":"",    "eng":"months"      ,"spa":"meses"       
         ,"pics":[
           "/pics/month.jpg"
         ],"audio":[
@@ -230,7 +230,7 @@
 
         ]
       },
-      {"eng":"years"       ,"spa":"años"        
+      {"id":"",    "eng":"years"       ,"spa":"años"        
         ,"pics":[
           "/pics/year.jpg"
         ],"audio":[
@@ -241,7 +241,7 @@
       }
     ],
     "counting": [
-      {"eng":"one"            ,"spa":"uno"             
+      {"id":"",    "eng":"one"            ,"spa":"uno"             
         ,"pics":[
           "/pics/one.jpg"
         ],"audio":[
@@ -250,7 +250,7 @@
 
         ]
       },
-      {"eng":"two"            ,"spa":"dos"             
+      {"id":"",    "eng":"two"            ,"spa":"dos"             
         ,"pics":[
           "/pics/two.png"
         ],"audio":[
@@ -259,7 +259,7 @@
 
         ]
       },
-      {"eng":"three"          ,"spa":"tres"            
+      {"id":"",    "eng":"three"          ,"spa":"tres"            
         ,"pics":[
           "/pics/three.jpg"
         ],"audio":[
@@ -268,7 +268,7 @@
 
         ]
       },
-      {"eng":"four"           ,"spa":"cuatro"          
+      {"id":"",    "eng":"four"           ,"spa":"cuatro"          
         ,"pics":[
           "/pics/four.png"
         ],"audio":[
@@ -277,7 +277,7 @@
 
         ]
       },
-      {"eng":"five"           ,"spa":"cinco"           
+      {"id":"",    "eng":"five"           ,"spa":"cinco"           
         ,"pics":[
           "/pics/five.jpg"
         ],"audio":[
@@ -286,7 +286,7 @@
 
         ]
       },
-      {"eng":"six"            ,"spa":"seis"            
+      {"id":"",    "eng":"six"            ,"spa":"seis"            
         ,"pics":[
           "/pics/six.jpg"
         ],"audio":[
@@ -295,7 +295,7 @@
 
         ]
       },
-      {"eng":"seven"          ,"spa":"siete"           
+      {"id":"",    "eng":"seven"          ,"spa":"siete"           
         ,"pics":[
           "/pics/seven.png"
         ],"audio":[
@@ -304,7 +304,7 @@
 
         ]
       },
-      {"eng":"eight"          ,"spa":"otro"            
+      {"id":"",    "eng":"eight"          ,"spa":"otro"            
         ,"pics":[
           "/pics/eight.png"
         ],"audio":[
@@ -313,7 +313,7 @@
 
         ]
       },
-      {"eng":"nine"           ,"spa":"nueve"           
+      {"id":"",    "eng":"nine"           ,"spa":"nueve"           
         ,"pics":[
           "/pics/nine.png"
         ],"audio":[
@@ -322,7 +322,7 @@
 
         ]
       },
-      {"eng":"ten"            ,"spa":"diez"            
+      {"id":"",    "eng":"ten"            ,"spa":"diez"            
         ,"pics":[
           "/pics/ten.png"
         ],"audio":[
@@ -331,7 +331,7 @@
 
         ]
       },
-      {"eng":"eleven"         ,"spa":"once"            
+      {"id":"",    "eng":"eleven"         ,"spa":"once"            
         ,"pics":[
 
         ],"audio":[
@@ -340,7 +340,7 @@
 
         ]
       },
-      {"eng":"twelve"         ,"spa":"doce"            
+      {"id":"",    "eng":"twelve"         ,"spa":"doce"            
         ,"pics":[
 
         ],"audio":[
@@ -349,7 +349,7 @@
 
         ]
       },
-      {"eng":"thirteen"       ,"spa":"trece"           
+      {"id":"",    "eng":"thirteen"       ,"spa":"trece"           
         ,"pics":[
 
         ],"audio":[
@@ -358,7 +358,7 @@
 
         ]
       },
-      {"eng":"fourteen"       ,"spa":"catorce"         
+      {"id":"",    "eng":"fourteen"       ,"spa":"catorce"         
         ,"pics":[
 
         ],"audio":[
@@ -367,7 +367,7 @@
 
         ]
       },
-      {"eng":"fifteen"        ,"spa":"quince"          
+      {"id":"",    "eng":"fifteen"        ,"spa":"quince"          
         ,"pics":[
 
         ],"audio":[
@@ -376,7 +376,7 @@
 
         ]
       },
-      {"eng":"sixteen"        ,"spa":"diesci-seis"     
+      {"id":"",    "eng":"sixteen"        ,"spa":"diesci-seis"     
         ,"pics":[
 
         ],"audio":[
@@ -385,7 +385,7 @@
 
         ]
       },
-      {"eng":"seventeen"      ,"spa":"diesci-siete"    
+      {"id":"",    "eng":"seventeen"      ,"spa":"diesci-siete"    
         ,"pics":[
 
         ],"audio":[
@@ -394,7 +394,7 @@
 
         ]
       },
-      {"eng":"eighteen"       ,"spa":"diesci-ocho"     
+      {"id":"",    "eng":"eighteen"       ,"spa":"diesci-ocho"     
         ,"pics":[
 
         ],"audio":[
@@ -403,7 +403,7 @@
 
         ]
       },
-      {"eng":"nineteen"       ,"spa":"diesci-nueve"    
+      {"id":"",    "eng":"nineteen"       ,"spa":"diesci-nueve"    
         ,"pics":[
 
         ],"audio":[
@@ -412,7 +412,7 @@
 
         ]
       },
-      {"eng":"twenty"         ,"spa":"viente"          
+      {"id":"",    "eng":"twenty"         ,"spa":"viente"          
         ,"pics":[
 
         ],"audio":[
@@ -421,7 +421,7 @@
 
         ]
       },
-      {"eng":"twenty-one"     ,"spa":"veintiuno"       
+      {"id":"",    "eng":"twenty-one"     ,"spa":"veintiuno"       
         ,"pics":[
 
         ],"audio":[
@@ -430,7 +430,7 @@
 
         ]
       },
-      {"eng":"twenty-two"     ,"spa":"veintidós"       
+      {"id":"",    "eng":"twenty-two"     ,"spa":"veintidós"       
         ,"pics":[
 
         ],"audio":[
@@ -439,7 +439,7 @@
 
         ]
       },
-      {"eng":"twenty-three"   ,"spa":"veintitrés"      
+      {"id":"",    "eng":"twenty-three"   ,"spa":"veintitrés"      
         ,"pics":[
 
         ],"audio":[
@@ -448,7 +448,7 @@
 
         ]
       },
-      {"eng":"twenty-four"    ,"spa":"veinticuatro"    
+      {"id":"",    "eng":"twenty-four"    ,"spa":"veinticuatro"    
         ,"pics":[
 
         ],"audio":[
@@ -457,7 +457,7 @@
 
         ]
       },
-      {"eng":"twenty-five"    ,"spa":"veinticinco"     
+      {"id":"",    "eng":"twenty-five"    ,"spa":"veinticinco"     
         ,"pics":[
 
         ],"audio":[
@@ -466,7 +466,7 @@
 
         ]
       },
-      {"eng":"twenty-six"     ,"spa":"veintiséis"      
+      {"id":"",    "eng":"twenty-six"     ,"spa":"veintiséis"      
         ,"pics":[
 
         ],"audio":[
@@ -475,7 +475,7 @@
 
         ]
       },
-      {"eng":"twenty-seven"   ,"spa":"veintisiete"     
+      {"id":"",    "eng":"twenty-seven"   ,"spa":"veintisiete"     
         ,"pics":[
 
         ],"audio":[
@@ -484,7 +484,7 @@
 
         ]
       },
-      {"eng":"twenty-eight"   ,"spa":"veintiocho"      
+      {"id":"",    "eng":"twenty-eight"   ,"spa":"veintiocho"      
         ,"pics":[
 
         ],"audio":[
@@ -493,7 +493,7 @@
 
         ]
       },
-      {"eng":"twenty-nine"    ,"spa":"veintinueve"     
+      {"id":"",    "eng":"twenty-nine"    ,"spa":"veintinueve"     
         ,"pics":[
 
         ],"audio":[
@@ -502,7 +502,7 @@
 
         ]
       },
-      {"eng":"thirty"         ,"spa":"treinta"         
+      {"id":"",    "eng":"thirty"         ,"spa":"treinta"         
         ,"pics":[
 
         ],"audio":[
@@ -511,7 +511,7 @@
 
         ]
       },
-      {"eng":"thirty-one"     ,"spa":"treinta-uno"     
+      {"id":"",    "eng":"thirty-one"     ,"spa":"treinta-uno"     
         ,"pics":[
 
         ],"audio":[
@@ -520,7 +520,7 @@
 
         ]
       },
-      {"eng":"thirty-two"     ,"spa":"treinta-dos"     
+      {"id":"",    "eng":"thirty-two"     ,"spa":"treinta-dos"     
         ,"pics":[
 
         ],"audio":[
@@ -529,7 +529,7 @@
 
         ]
       },
-      {"eng":"thirty-three"   ,"spa":"treinta-tres"    
+      {"id":"",    "eng":"thirty-three"   ,"spa":"treinta-tres"    
         ,"pics":[
 
         ],"audio":[
@@ -538,7 +538,7 @@
 
         ]
       },
-      {"eng":"thirty-four"    ,"spa":"treinta-cuatro"  
+      {"id":"",    "eng":"thirty-four"    ,"spa":"treinta-cuatro"  
         ,"pics":[
 
         ],"audio":[
@@ -547,7 +547,7 @@
 
         ]
       },
-      {"eng":"thirty-five"    ,"spa":"treinta-cinco"   
+      {"id":"",    "eng":"thirty-five"    ,"spa":"treinta-cinco"   
         ,"pics":[
 
         ],"audio":[
@@ -556,7 +556,7 @@
 
         ]
       },
-      {"eng":"thirty-six"     ,"spa":"treinta-seis"    
+      {"id":"",    "eng":"thirty-six"     ,"spa":"treinta-seis"    
         ,"pics":[
 
         ],"audio":[
@@ -565,7 +565,7 @@
 
         ]
       },
-      {"eng":"thirty-seven"   ,"spa":"treinta-siete"   
+      {"id":"",    "eng":"thirty-seven"   ,"spa":"treinta-siete"   
         ,"pics":[
 
         ],"audio":[
@@ -574,7 +574,7 @@
 
         ]
       },
-      {"eng":"thirty-eight"   ,"spa":"treinta-ocho"    
+      {"id":"",    "eng":"thirty-eight"   ,"spa":"treinta-ocho"    
         ,"pics":[
 
         ],"audio":[
@@ -583,7 +583,7 @@
 
         ]
       },
-      {"eng":"thirty-nine"    ,"spa":"treinta-nueve"   
+      {"id":"",    "eng":"thirty-nine"    ,"spa":"treinta-nueve"   
         ,"pics":[
 
         ],"audio":[
@@ -592,7 +592,7 @@
 
         ]
       },
-      {"eng":"forty"          ,"spa":"cuarenta"        
+      {"id":"",    "eng":"forty"          ,"spa":"cuarenta"        
         ,"pics":[
 
         ],"audio":[
@@ -601,7 +601,7 @@
 
         ]
       },
-      {"eng":"forty-one"      ,"spa":"cuarenta-uno"    
+      {"id":"",    "eng":"forty-one"      ,"spa":"cuarenta-uno"    
         ,"pics":[
 
         ],"audio":[
@@ -610,7 +610,7 @@
 
         ]
       },
-      {"eng":"forty-two"      ,"spa":"cuarenta-dos"    
+      {"id":"",    "eng":"forty-two"      ,"spa":"cuarenta-dos"    
         ,"pics":[
 
         ],"audio":[
@@ -619,7 +619,7 @@
 
         ]
       },
-      {"eng":"forty-three"    ,"spa":"cuarenta-tres"   
+      {"id":"",    "eng":"forty-three"    ,"spa":"cuarenta-tres"   
         ,"pics":[
 
         ],"audio":[
@@ -628,7 +628,7 @@
 
         ]
       },
-      {"eng":"forty-four"     ,"spa":"cuarenta-cuatro" 
+      {"id":"",    "eng":"forty-four"     ,"spa":"cuarenta-cuatro" 
         ,"pics":[
 
         ],"audio":[
@@ -637,7 +637,7 @@
 
         ]
       },
-      {"eng":"forty-five"     ,"spa":"cuarenta-cinco"  
+      {"id":"",    "eng":"forty-five"     ,"spa":"cuarenta-cinco"  
         ,"pics":[
 
         ],"audio":[
@@ -646,7 +646,7 @@
 
         ]
       },
-      {"eng":"forty-six"      ,"spa":"cuarenta-seis"   
+      {"id":"",    "eng":"forty-six"      ,"spa":"cuarenta-seis"   
         ,"pics":[
 
         ],"audio":[
@@ -655,7 +655,7 @@
 
         ]
       },
-      {"eng":"forty-seven"    ,"spa":"cuarenta-siete"  
+      {"id":"",    "eng":"forty-seven"    ,"spa":"cuarenta-siete"  
         ,"pics":[
 
         ],"audio":[
@@ -664,7 +664,7 @@
 
         ]
       },
-      {"eng":"forty-eight"    ,"spa":"cuarenta-ocho"   
+      {"id":"",    "eng":"forty-eight"    ,"spa":"cuarenta-ocho"   
         ,"pics":[
 
         ],"audio":[
@@ -673,7 +673,7 @@
 
         ]
       },
-      {"eng":"forty-nine"     ,"spa":"cuarenta-nueve"  
+      {"id":"",    "eng":"forty-nine"     ,"spa":"cuarenta-nueve"  
         ,"pics":[
 
         ],"audio":[
@@ -682,7 +682,7 @@
 
         ]
       },
-      {"eng":"fifty"          ,"spa":"cincuenta"       
+      {"id":"",    "eng":"fifty"          ,"spa":"cincuenta"       
         ,"pics":[
 
         ],"audio":[
@@ -691,7 +691,7 @@
 
         ]
       },
-      {"eng":"fifty-one"      ,"spa":"cincuenta-uno"   
+      {"id":"",    "eng":"fifty-one"      ,"spa":"cincuenta-uno"   
         ,"pics":[
 
         ],"audio":[
@@ -700,7 +700,7 @@
 
         ]
       },
-      {"eng":"fifty-two"      ,"spa":"cincuenta-dos"   
+      {"id":"",    "eng":"fifty-two"      ,"spa":"cincuenta-dos"   
         ,"pics":[
 
         ],"audio":[
@@ -709,7 +709,7 @@
 
         ]
       },
-      {"eng":"fifty-three"    ,"spa":"cincuenta-tres"  
+      {"id":"",    "eng":"fifty-three"    ,"spa":"cincuenta-tres"  
         ,"pics":[
 
         ],"audio":[
@@ -718,7 +718,7 @@
 
         ]
       },
-      {"eng":"fifty-four"     ,"spa":"cincuenta-cuatro"
+      {"id":"",    "eng":"fifty-four"     ,"spa":"cincuenta-cuatro"
         ,"pics":[
 
         ],"audio":[
@@ -727,7 +727,7 @@
 
         ]
       },
-      {"eng":"fifty-five"     ,"spa":"cincuenta-cinco" 
+      {"id":"",    "eng":"fifty-five"     ,"spa":"cincuenta-cinco" 
         ,"pics":[
 
         ],"audio":[
@@ -736,7 +736,7 @@
 
         ]
       },
-      {"eng":"fifty-six"      ,"spa":"cincuenta-seis"  
+      {"id":"",    "eng":"fifty-six"      ,"spa":"cincuenta-seis"  
         ,"pics":[
 
         ],"audio":[
@@ -745,7 +745,7 @@
 
         ]
       },
-      {"eng":"fifty-seven"    ,"spa":"cincuenta-siete" 
+      {"id":"",    "eng":"fifty-seven"    ,"spa":"cincuenta-siete" 
         ,"pics":[
 
         ],"audio":[
@@ -754,7 +754,7 @@
 
         ]
       },
-      {"eng":"fifty-eight"    ,"spa":"cincuenta-ocho"  
+      {"id":"",    "eng":"fifty-eight"    ,"spa":"cincuenta-ocho"  
         ,"pics":[
 
         ],"audio":[
@@ -763,7 +763,7 @@
 
         ]
       },
-      {"eng":"fifty-nine"     ,"spa":"cincuenta-nueve" 
+      {"id":"",    "eng":"fifty-nine"     ,"spa":"cincuenta-nueve" 
         ,"pics":[
 
         ],"audio":[
@@ -772,7 +772,7 @@
 
         ]
       },
-      {"eng":"sixty"          ,"spa":"sesenta"         
+      {"id":"",    "eng":"sixty"          ,"spa":"sesenta"         
         ,"pics":[
 
         ],"audio":[
@@ -781,7 +781,7 @@
 
         ]
       },
-      {"eng":"sixty-one"      ,"spa":"sesenta-uno"     
+      {"id":"",    "eng":"sixty-one"      ,"spa":"sesenta-uno"     
         ,"pics":[
 
         ],"audio":[
@@ -790,7 +790,7 @@
 
         ]
       },
-      {"eng":"sixty-two"      ,"spa":"sesenta-dos"     
+      {"id":"",    "eng":"sixty-two"      ,"spa":"sesenta-dos"     
         ,"pics":[
 
         ],"audio":[
@@ -799,7 +799,7 @@
 
         ]
       },
-      {"eng":"sixty-three"    ,"spa":"sesenta-tres"    
+      {"id":"",    "eng":"sixty-three"    ,"spa":"sesenta-tres"    
         ,"pics":[
 
         ],"audio":[
@@ -808,7 +808,7 @@
 
         ]
       },
-      {"eng":"sixty-four"     ,"spa":"sesenta-cuatro"  
+      {"id":"",    "eng":"sixty-four"     ,"spa":"sesenta-cuatro"  
         ,"pics":[
 
         ],"audio":[
@@ -817,7 +817,7 @@
 
         ]
       },
-      {"eng":"sixty-five"     ,"spa":"sesenta-cinco"   
+      {"id":"",    "eng":"sixty-five"     ,"spa":"sesenta-cinco"   
         ,"pics":[
 
         ],"audio":[
@@ -826,7 +826,7 @@
 
         ]
       },
-      {"eng":"sixty-six"      ,"spa":"sesenta-seis"    
+      {"id":"",    "eng":"sixty-six"      ,"spa":"sesenta-seis"    
         ,"pics":[
 
         ],"audio":[
@@ -835,7 +835,7 @@
 
         ]
       },
-      {"eng":"sixty-seven"    ,"spa":"sesenta-siete"   
+      {"id":"",    "eng":"sixty-seven"    ,"spa":"sesenta-siete"   
         ,"pics":[
 
         ],"audio":[
@@ -844,7 +844,7 @@
 
         ]
       },
-      {"eng":"sixty-eight"    ,"spa":"sesenta-ocho"    
+      {"id":"",    "eng":"sixty-eight"    ,"spa":"sesenta-ocho"    
         ,"pics":[
 
         ],"audio":[
@@ -853,7 +853,7 @@
 
         ]
       },
-      {"eng":"sixty-nine"     ,"spa":"sesenta-nueve"   
+      {"id":"",    "eng":"sixty-nine"     ,"spa":"sesenta-nueve"   
         ,"pics":[
 
         ],"audio":[
@@ -862,7 +862,7 @@
 
         ]
       },
-      {"eng":"seventy"        ,"spa":"setenta"         
+      {"id":"",    "eng":"seventy"        ,"spa":"setenta"         
         ,"pics":[
 
         ],"audio":[
@@ -871,7 +871,7 @@
 
         ]
       },
-      {"eng":"seventy-one"    ,"spa":"setenta-uno"     
+      {"id":"",    "eng":"seventy-one"    ,"spa":"setenta-uno"     
         ,"pics":[
 
         ],"audio":[
@@ -880,7 +880,7 @@
 
         ]
       },
-      {"eng":"seventy-two"    ,"spa":"setenta-dos"     
+      {"id":"",    "eng":"seventy-two"    ,"spa":"setenta-dos"     
         ,"pics":[
 
         ],"audio":[
@@ -889,7 +889,7 @@
 
         ]
       },
-      {"eng":"seventy-three"  ,"spa":"setenta-tres"    
+      {"id":"",    "eng":"seventy-three"  ,"spa":"setenta-tres"    
         ,"pics":[
 
         ],"audio":[
@@ -898,7 +898,7 @@
 
         ]
       },
-      {"eng":"seventy-four"   ,"spa":"setenta-cuatro"  
+      {"id":"",    "eng":"seventy-four"   ,"spa":"setenta-cuatro"  
         ,"pics":[
 
         ],"audio":[
@@ -907,7 +907,7 @@
 
         ]
       },
-      {"eng":"seventy-five"   ,"spa":"setenta-cinco"   
+      {"id":"",    "eng":"seventy-five"   ,"spa":"setenta-cinco"   
         ,"pics":[
 
         ],"audio":[
@@ -916,7 +916,7 @@
 
         ]
       },
-      {"eng":"seventy-six"    ,"spa":"setenta-seis"    
+      {"id":"",    "eng":"seventy-six"    ,"spa":"setenta-seis"    
         ,"pics":[
 
         ],"audio":[
@@ -925,7 +925,7 @@
 
         ]
       },
-      {"eng":"seventy-seven"  ,"spa":"setenta-siete"   
+      {"id":"",    "eng":"seventy-seven"  ,"spa":"setenta-siete"   
         ,"pics":[
 
         ],"audio":[
@@ -934,7 +934,7 @@
 
         ]
       },
-      {"eng":"seventy-eight"  ,"spa":"setenta-ocho"    
+      {"id":"",    "eng":"seventy-eight"  ,"spa":"setenta-ocho"    
         ,"pics":[
 
         ],"audio":[
@@ -943,7 +943,7 @@
 
         ]
       },
-      {"eng":"seventy-nine"   ,"spa":"setenta-nueve"   
+      {"id":"",    "eng":"seventy-nine"   ,"spa":"setenta-nueve"   
         ,"pics":[
 
         ],"audio":[
@@ -952,7 +952,7 @@
 
         ]
       },
-      {"eng":"eighty"         ,"spa":"ochenta"         
+      {"id":"",    "eng":"eighty"         ,"spa":"ochenta"         
         ,"pics":[
 
         ],"audio":[
@@ -961,7 +961,7 @@
 
         ]
       },
-      {"eng":"eighty-one"     ,"spa":"ochenta-uno"     
+      {"id":"",    "eng":"eighty-one"     ,"spa":"ochenta-uno"     
         ,"pics":[
 
         ],"audio":[
@@ -970,7 +970,7 @@
 
         ]
       },
-      {"eng":"eighty-two"     ,"spa":"ochenta-dos"     
+      {"id":"",    "eng":"eighty-two"     ,"spa":"ochenta-dos"     
         ,"pics":[
 
         ],"audio":[
@@ -979,7 +979,7 @@
 
         ]
       },
-      {"eng":"eighty-three"   ,"spa":"ochenta-tres"    
+      {"id":"",    "eng":"eighty-three"   ,"spa":"ochenta-tres"    
         ,"pics":[
 
         ],"audio":[
@@ -988,7 +988,7 @@
 
         ]
       },
-      {"eng":"eighty-four"    ,"spa":"ochenta-cuatro"  
+      {"id":"",    "eng":"eighty-four"    ,"spa":"ochenta-cuatro"  
         ,"pics":[
 
         ],"audio":[
@@ -997,7 +997,7 @@
 
         ]
       },
-      {"eng":"eighty-five"    ,"spa":"ochenta-cinco"   
+      {"id":"",    "eng":"eighty-five"    ,"spa":"ochenta-cinco"   
         ,"pics":[
 
         ],"audio":[
@@ -1006,7 +1006,7 @@
 
         ]
       },
-      {"eng":"eighty-six"     ,"spa":"ochenta-seis"    
+      {"id":"",    "eng":"eighty-six"     ,"spa":"ochenta-seis"    
         ,"pics":[
 
         ],"audio":[
@@ -1015,7 +1015,7 @@
 
         ]
       },
-      {"eng":"eighty-seven"   ,"spa":"ochenta-siete"   
+      {"id":"",    "eng":"eighty-seven"   ,"spa":"ochenta-siete"   
         ,"pics":[
 
         ],"audio":[
@@ -1024,7 +1024,7 @@
 
         ]
       },
-      {"eng":"eighty-eight"   ,"spa":"ochenta-ocho"    
+      {"id":"",    "eng":"eighty-eight"   ,"spa":"ochenta-ocho"    
         ,"pics":[
 
         ],"audio":[
@@ -1033,7 +1033,7 @@
 
         ]
       },
-      {"eng":"eighty-nine"    ,"spa":"ochenta-nueve"   
+      {"id":"",    "eng":"eighty-nine"    ,"spa":"ochenta-nueve"   
         ,"pics":[
 
         ],"audio":[
@@ -1042,7 +1042,7 @@
 
         ]
       },
-      {"eng":"ninety"         ,"spa":"noventa"         
+      {"id":"",    "eng":"ninety"         ,"spa":"noventa"         
         ,"pics":[
 
         ],"audio":[
@@ -1051,7 +1051,7 @@
 
         ]
       },
-      {"eng":"ninety-one"     ,"spa":"noventa-uno"     
+      {"id":"",    "eng":"ninety-one"     ,"spa":"noventa-uno"     
         ,"pics":[
 
         ],"audio":[
@@ -1060,7 +1060,7 @@
 
         ]
       },
-      {"eng":"ninety-two"     ,"spa":"noventa-dos"     
+      {"id":"",    "eng":"ninety-two"     ,"spa":"noventa-dos"     
         ,"pics":[
 
         ],"audio":[
@@ -1069,7 +1069,7 @@
 
         ]
       },
-      {"eng":"ninety-three"   ,"spa":"noventa-tres"    
+      {"id":"",    "eng":"ninety-three"   ,"spa":"noventa-tres"    
         ,"pics":[
 
         ],"audio":[
@@ -1078,7 +1078,7 @@
 
         ]
       },
-      {"eng":"ninety-four"    ,"spa":"noventa-cuatro"  
+      {"id":"",    "eng":"ninety-four"    ,"spa":"noventa-cuatro"  
         ,"pics":[
 
         ],"audio":[
@@ -1087,7 +1087,7 @@
 
         ]
       },
-      {"eng":"ninety-five"    ,"spa":"noventa-cinco"   
+      {"id":"",    "eng":"ninety-five"    ,"spa":"noventa-cinco"   
         ,"pics":[
 
         ],"audio":[
@@ -1096,7 +1096,7 @@
 
         ]
       },
-      {"eng":"ninety-six"     ,"spa":"noventa-seis"    
+      {"id":"",    "eng":"ninety-six"     ,"spa":"noventa-seis"    
         ,"pics":[
 
         ],"audio":[
@@ -1105,7 +1105,7 @@
 
         ]
       },
-      {"eng":"ninety-seven"   ,"spa":"noventa-siete"   
+      {"id":"",    "eng":"ninety-seven"   ,"spa":"noventa-siete"   
         ,"pics":[
 
         ],"audio":[
@@ -1114,7 +1114,7 @@
 
         ]
       },
-      {"eng":"ninety-eight"   ,"spa":"noventa-ocho"    
+      {"id":"",    "eng":"ninety-eight"   ,"spa":"noventa-ocho"    
         ,"pics":[
 
         ],"audio":[
@@ -1123,7 +1123,7 @@
 
         ]
       },
-      {"eng":"ninety-nine"    ,"spa":"noventa-nueve"   
+      {"id":"",    "eng":"ninety-nine"    ,"spa":"noventa-nueve"   
         ,"pics":[
 
         ],"audio":[
@@ -1132,7 +1132,7 @@
 
         ]
       },
-      {"eng":"hundred"        ,"spa":"ciento"          
+      {"id":"",    "eng":"hundred"        ,"spa":"ciento"          
         ,"pics":[
 
         ],"audio":[
@@ -1141,7 +1141,7 @@
 
         ]
       },
-      {"eng":"thousand"       ,"spa":"mil"             
+      {"id":"",    "eng":"thousand"       ,"spa":"mil"             
         ,"pics":[
 
         ],"audio":[
@@ -1150,7 +1150,7 @@
 
         ]
       },
-      {"eng":"million"        ,"spa":"millón"          
+      {"id":"",    "eng":"million"        ,"spa":"millón"          
         ,"pics":[
 
         ],"audio":[
@@ -1159,7 +1159,7 @@
 
         ]
       },
-      {"eng":"billion"        ,"spa":"billón"          
+      {"id":"",    "eng":"billion"        ,"spa":"billón"          
         ,"pics":[
 
         ],"audio":[
@@ -1168,7 +1168,7 @@
 
         ]
       },
-      {"eng":"trillion"       ,"spa":"trillón"         
+      {"id":"",    "eng":"trillion"       ,"spa":"trillón"         
         ,"pics":[
 
         ],"audio":[
@@ -1179,7 +1179,7 @@
       }
     ],
     "local-geography": [
-      {"eng":"state"         ,"spa":"estado"           
+      {"id":"",    "eng":"state"         ,"spa":"estado"           
         ,"pics":[
           "/pics/state.jpg"
         ],"audio":[
@@ -1188,7 +1188,7 @@
 
         ]
       },
-      {"eng":"city"          ,"spa":"cuidad"           
+      {"id":"",    "eng":"city"          ,"spa":"cuidad"           
         ,"pics":[
           "/pics/city.jpg"
         ],"audio":[
@@ -1197,7 +1197,7 @@
 
         ]
       },
-      {"eng":"city hall"     ,"spa":"ayuntamiento"     
+      {"id":"",    "eng":"city hall"     ,"spa":"ayuntamiento"     
         ,"pics":[
           "/pics/city-hall.jpg"
         ],"audio":[
@@ -1206,7 +1206,7 @@
 
         ]
       },
-      {"eng":"church"        ,"spa":"iglesia"          
+      {"id":"",    "eng":"church"        ,"spa":"iglesia"          
         ,"pics":[
           "/pics/church.jpg"
         ],"audio":[
@@ -1215,7 +1215,7 @@
 
         ]
       },
-      {"eng":"park"          ,"spa":"parque"           
+      {"id":"",    "eng":"park"          ,"spa":"parque"           
         ,"pics":[
           "/pics/park.jpg"
         ],"audio":[
@@ -1224,7 +1224,7 @@
 
         ]
       },
-      {"eng":"beach"         ,"spa":"playa"            
+      {"id":"",    "eng":"beach"         ,"spa":"playa"            
         ,"pics":[
           "/pics/beach.jpg"
         ],"audio":[
@@ -1233,7 +1233,7 @@
 
         ]
       },
-      {"eng":"mountain range","spa":"rango de montañas"
+      {"id":"",    "eng":"mountain range","spa":"rango de montañas"
         ,"pics":[
           "/pics/mountain.jpg"
         ],"audio":[
@@ -1242,7 +1242,7 @@
 
         ]
       },
-      {"eng":"forest"        ,"spa":"bosque"           
+      {"id":"",    "eng":"forest"        ,"spa":"bosque"           
         ,"pics":[
           "/pics/foest.jpg"
         ],"audio":[
@@ -1251,7 +1251,7 @@
 
         ]
       },
-      {"eng":"town"          ,"spa":"pueblo"           
+      {"id":"",    "eng":"town"          ,"spa":"pueblo"           
         ,"pics":[
           "/pics/town.jpg"
         ],"audio":[
@@ -1260,7 +1260,7 @@
 
         ]
       },
-      {"eng":"river"         ,"spa":"río"              
+      {"id":"",    "eng":"river"         ,"spa":"río"              
         ,"pics":[
           "/pics/river.jpg"
         ],"audio":[
@@ -1269,7 +1269,7 @@
 
         ]
       },
-      {"eng":"lighthouse"    ,"spa":"laguna"           
+      {"id":"",    "eng":"lighthouse"    ,"spa":"laguna"           
         ,"pics":[
           "/pics/lighthouse.jpg"
         ],"audio":[
@@ -1278,7 +1278,7 @@
 
         ]
       },
-      {"eng":"castle"        ,"spa":"castillo"         
+      {"id":"",    "eng":"castle"        ,"spa":"castillo"         
         ,"pics":[
           "/pics/castle.jpg"
         ],"audio":[
@@ -1287,7 +1287,7 @@
 
         ]
       },
-      {"eng":"bridge"        ,"spa":"puente"           
+      {"id":"",    "eng":"bridge"        ,"spa":"puente"           
         ,"pics":[
           "/pics/bridge.jpeg"
         ],"audio":[
@@ -1296,7 +1296,7 @@
 
         ]
       },
-      {"eng":"tunnel"        ,"spa":"túnel"            
+      {"id":"",    "eng":"tunnel"        ,"spa":"túnel"            
         ,"pics":[
           "/pics/tunnel.jpg"
         ],"audio":[
@@ -1305,7 +1305,7 @@
 
         ]
       },
-      {"eng":"airport"       ,"spa":"aeropuerto"       
+      {"id":"",    "eng":"airport"       ,"spa":"aeropuerto"       
         ,"pics":[
           "/pics/airport.jpg"
         ],"audio":[
@@ -1314,7 +1314,7 @@
 
         ]
       },
-      {"eng":"subway"        ,"spa":"subterraneo"      
+      {"id":"",    "eng":"subway"        ,"spa":"subterraneo"      
         ,"pics":[
           "/pics/subway.jpg"
         ],"audio":[
@@ -1323,7 +1323,7 @@
 
         ]
       },
-      {"eng":"hospital"      ,"spa":"hospital"         
+      {"id":"",    "eng":"hospital"      ,"spa":"hospital"         
         ,"pics":[
           "/pics/hospital.jpg"
         ],"audio":[
@@ -1332,7 +1332,7 @@
 
         ]
       },
-      {"eng":"school"        ,"spa":"escuela"          
+      {"id":"",    "eng":"school"        ,"spa":"escuela"          
         ,"pics":[
           "/pics/school.jpg"
         ],"audio":[
@@ -1341,7 +1341,7 @@
 
         ]
       },
-      {"eng":"library"       ,"spa":"biblioteca"       
+      {"id":"",    "eng":"library"       ,"spa":"biblioteca"       
         ,"pics":[
           "/pics/library.jpg"
         ],"audio":[
@@ -1350,7 +1350,7 @@
 
         ]
       },
-      {"eng":"museum"        ,"spa":"museo"            
+      {"id":"",    "eng":"museum"        ,"spa":"museo"            
         ,"pics":[
           "/pics/museum.jpg"
         ],"audio":[
@@ -1359,7 +1359,7 @@
 
         ]
       },
-      {"eng":"stadium"       ,"spa":"estadio"          
+      {"id":"",    "eng":"stadium"       ,"spa":"estadio"          
         ,"pics":[
           "/pics/stadium.jpg"
         ],"audio":[
@@ -1368,7 +1368,7 @@
 
         ]
       },    
-      {"eng":"train station" ,"spa":"estación de tren" 
+      {"id":"",    "eng":"train station" ,"spa":"estación de tren" 
         ,"pics":[
           "/pics/train-station.jpg"
         ],"audio":[
@@ -1377,7 +1377,7 @@
 
         ]
       },
-      {"eng":"restaurant"    ,"spa":"restauranté"      
+      {"id":"",    "eng":"restaurant"    ,"spa":"restauranté"      
         ,"pics":[
           "/pics/restaurant.jpg"
         ],"audio":[
@@ -1386,7 +1386,7 @@
 
         ]
       },
-      {"eng":"cafe"          ,"spa":"café"             
+      {"id":"",    "eng":"cafe"          ,"spa":"café"             
         ,"pics":[
           "/pics/cafe.jpg"
         ],"audio":[
@@ -1395,7 +1395,7 @@
 
         ]
       },
-      {"eng":"fast food"     ,"spa":"comida rápida"    
+      {"id":"",    "eng":"fast food"     ,"spa":"comida rápida"    
         ,"pics":[
           "/pics/fastfood.jpg"
         ],"audio":[
@@ -1404,7 +1404,7 @@
 
         ]
       },
-      {"eng":"supermarket"   ,"spa":"supermercado"     
+      {"id":"",    "eng":"supermarket"   ,"spa":"supermercado"     
         ,"pics":[
           "/pics/supermarket.jpg"
         ],"audio":[
@@ -1413,7 +1413,7 @@
 
         ]
       },
-      {"eng":"market"        ,"spa":"mercado"          
+      {"id":"",    "eng":"market"        ,"spa":"mercado"          
         ,"pics":[
           "/pics/market.jpg"
         ],"audio":[
@@ -1422,7 +1422,7 @@
 
         ]
       },
-      {"eng":"mall"          ,"spa":"mall"             
+      {"id":"",    "eng":"mall"          ,"spa":"mall"             
         ,"pics":[
           "/pics/mall.jpg"
         ],"audio":[
@@ -1431,7 +1431,7 @@
 
         ]
       },
-      {"eng":"clothing store","spa":"tienda de ropa"   
+      {"id":"",    "eng":"clothing store","spa":"tienda de ropa"   
         ,"pics":[
           "/pics/clothing-store.jpg"
         ],"audio":[
@@ -1440,7 +1440,7 @@
 
         ]
       },
-      {"eng":"bookstore"     ,"spa":"tienda de libros" 
+      {"id":"",    "eng":"bookstore"     ,"spa":"tienda de libros" 
         ,"pics":[
           "/pics/bookstore.jpg"
         ],"audio":[
@@ -1451,7 +1451,7 @@
       }
     ],
     "entertainment": [
-      {"eng":"game"         ,"spa":"juego"          
+      {"id":"",    "eng":"game"         ,"spa":"juego"          
         ,"pics":[
           "/pics/game.jpg"
         ],"audio":[
@@ -1460,7 +1460,7 @@
 
         ]
       },
-      {"eng":"concert"      ,"spa":"concierto"      
+      {"id":"",    "eng":"concert"      ,"spa":"concierto"      
         ,"pics":[
           "/pics/concert.jpg"          
         ],"audio":[
@@ -1469,7 +1469,7 @@
 
         ]
       },
-      {"eng":"festival"     ,"spa":"festival"       
+      {"id":"",    "eng":"festival"     ,"spa":"festival"       
         ,"pics":[
           "/pics/festival.jpg"
         ],"audio":[
@@ -1478,7 +1478,7 @@
 
         ]
       },
-      {"eng":"performance"  ,"spa":"rendimiento"    
+      {"id":"",    "eng":"performance"  ,"spa":"rendimiento"    
         ,"pics":[
           "/pics/concert.jpg"
         ],"audio":[
@@ -1487,7 +1487,7 @@
 
         ]
       },
-      {"eng":"music venue"  ,"spa":"salón de música"
+      {"id":"",    "eng":"music venue"  ,"spa":"salón de música"
         ,"pics":[
           "/pics/concert.jpg"
         ],"audio":[
@@ -1496,7 +1496,7 @@
 
         ]
       },
-      {"eng":"theater"      ,"spa":"teatro"         
+      {"id":"",    "eng":"theater"      ,"spa":"teatro"         
         ,"pics":[
           "/pics/theater.jpg"
         ],"audio":[
@@ -1505,7 +1505,7 @@
 
         ]
       },
-      {"eng":"movie theater","spa":"cine"           
+      {"id":"",    "eng":"movie theater","spa":"cine"           
         ,"pics":[
           "/pics/movie-theater.jpg"
         ],"audio":[
@@ -1514,7 +1514,7 @@
 
         ]
       },
-      {"eng":"art gallery"  ,"spa":"galería de arte"
+      {"id":"",    "eng":"art gallery"  ,"spa":"galería de arte"
         ,"pics":[
           "/pics/art-gallery.jpg"
         ],"audio":[
@@ -1523,7 +1523,7 @@
 
         ]
       },
-      {"eng":"bar"          ,"spa":"bar"            
+      {"id":"",    "eng":"bar"          ,"spa":"bar"            
         ,"pics":[
           "/pics/bar.jpg"
         ],"audio":[
@@ -1532,7 +1532,7 @@
 
         ]
       },
-      {"eng":"pub"          ,"spa":"pub"            
+      {"id":"",    "eng":"pub"          ,"spa":"pub"            
         ,"pics":[
           "/pics/bar.jpg"
         ],"audio":[
@@ -1541,7 +1541,7 @@
 
         ]
       },
-      {"eng":"dance"        ,"spa":"bailar"         
+      {"id":"",    "eng":"dance"        ,"spa":"bailar"         
         ,"pics":[
           "/pics/dance.jpg"
         ],"audio":[
@@ -1550,7 +1550,7 @@
 
         ]
       },
-      {"eng":"sing"         ,"spa":"cantar"         
+      {"id":"",    "eng":"sing"         ,"spa":"cantar"         
         ,"pics":[
           "/pics/sing.jpg"
         ],"audio":[
@@ -1559,7 +1559,7 @@
 
         ]
       }, 
-      {"eng":"song"         ,"spa":"canción"        
+      {"id":"",    "eng":"song"         ,"spa":"canción"        
         ,"pics":[
           "/pics/song.jpg"
         ],"audio":[
@@ -1570,7 +1570,7 @@
       } 
     ],
     "finance": [
-      {"eng":"bank",        "spa":"banco"              
+      {"id":"",    "eng":"bank",        "spa":"banco"              
         ,"pics":[
           "/pics/bank.jpg"
         ],"audio":[
@@ -1579,7 +1579,7 @@
 
         ]
       },
-      {"eng":"cash",        "spa":"dinero"             
+      {"id":"",    "eng":"cash",        "spa":"dinero"             
         ,"pics":[
           "/pics/cash.jpg"
         ],"audio":[
@@ -1588,7 +1588,7 @@
 
         ]
       },
-      {"eng":"credit card"      ,"spa":"tarjeta de crédito" 
+      {"id":"",    "eng":"credit card"      ,"spa":"tarjeta de crédito" 
         ,"pics":[
           "/pics/debit-card.jpg"
         ],"audio":[
@@ -1597,7 +1597,7 @@
 
         ]
       },
-      {"eng":"debit card"       ,"spa":"tarjeta de débito"  
+      {"id":"",    "eng":"debit card"       ,"spa":"tarjeta de débito"  
         ,"pics":[
           "/pics/debit-card.jpg"
         ],"audio":[
@@ -1606,7 +1606,7 @@
 
         ]
       },
-      {"eng":"atm"              ,"spa":"caja fuerte"        
+      {"id":"",    "eng":"atm"              ,"spa":"caja fuerte"        
         ,"pics":[
           "/pics/"
         ],"audio":[
@@ -1615,7 +1615,7 @@
 
         ]
       },
-      {"eng":"loan"             ,"spa":"préstamo"           
+      {"id":"",    "eng":"loan"             ,"spa":"préstamo"           
         ,"pics":[
           "/pics/loan.jpg"
         ],"audio":[
@@ -1624,7 +1624,7 @@
 
         ]
       },
-      {"eng":"savings"          ,"spa":"ahorros"            
+      {"id":"",    "eng":"savings"          ,"spa":"ahorros"            
         ,"pics":[
           "/pics/savings.jpg"
         ],"audio":[
@@ -1633,7 +1633,7 @@
 
         ]
       },
-      {"eng":"stock market"     ,"spa":"mercado de acciones"
+      {"id":"",    "eng":"stock market"     ,"spa":"mercado de acciones"
         ,"pics":[
           "/pics/stock-exchange.jpg"
         ],"audio":[
@@ -1642,7 +1642,7 @@
 
         ]
       },
-      {"eng":"stock exchange"   ,"spa":"bolsa de valores"   
+      {"id":"",    "eng":"stock exchange"   ,"spa":"bolsa de valores"   
         ,"pics":[
           "/pics/stock-exchange.jpg"
         ],"audio":[
@@ -1651,7 +1651,7 @@
 
         ]
       },
-      {"eng":"currency exchange","spa":"cambio de moneda"   
+      {"id":"",    "eng":"currency exchange","spa":"cambio de moneda"   
         ,"pics":[
           "/pics/currency-exchange.jpg"
         ],"audio":[
@@ -1660,7 +1660,7 @@
 
         ]
       },
-      {"eng":"exchange rate"    ,"spa":"tasa de cambio"     
+      {"id":"",    "eng":"exchange rate"    ,"spa":"tasa de cambio"     
         ,"pics":[
           "/pics/exchange-rate.jpg"
         ],"audio":[
@@ -1671,7 +1671,7 @@
       }
     ],
     "transportation": [
-      {"eng":"car"       ,"spa":"coche"      
+      {"id":"",    "eng":"car"       ,"spa":"coche"      
         ,"pics":[
 
         ],"audio":[
@@ -1680,7 +1680,7 @@
 
         ]
       },
-      {"eng":"bus"       ,"spa":"autobús"    
+      {"id":"",    "eng":"bus"       ,"spa":"autobús"    
         ,"pics":[
 
         ],"audio":[
@@ -1689,7 +1689,7 @@
 
         ]
       },
-      {"eng":"train"     ,"spa":"tren"       
+      {"id":"",    "eng":"train"     ,"spa":"tren"       
         ,"pics":[
 
         ],"audio":[
@@ -1698,7 +1698,7 @@
 
         ]
       },
-      {"eng":"subway"    ,"spa":"subterraneo"
+      {"id":"",    "eng":"subway"    ,"spa":"subterraneo"
         ,"pics":[
 
         ],"audio":[
@@ -1707,7 +1707,7 @@
 
         ]
       },
-      {"eng":"tram"      ,"spa":"trolebús"   
+      {"id":"",    "eng":"tram"      ,"spa":"trolebús"   
         ,"pics":[
 
         ],"audio":[
@@ -1716,7 +1716,7 @@
 
         ]
       },	
-      {"eng":"airplane"  ,"spa":"avión"      
+      {"id":"",    "eng":"airplane"  ,"spa":"avión"      
         ,"pics":[
 
         ],"audio":[
@@ -1725,7 +1725,7 @@
 
         ]
       },
-      {"eng":"boat"      ,"spa":"barco"      
+      {"id":"",    "eng":"boat"      ,"spa":"barco"      
         ,"pics":[
 
         ],"audio":[
@@ -1734,7 +1734,7 @@
 
         ]
       },
-      {"eng":"helicopter","spa":"helicóptero"
+      {"id":"",    "eng":"helicopter","spa":"helicóptero"
         ,"pics":[
 
         ],"audio":[
@@ -1743,7 +1743,7 @@
 
         ]
       },
-      {"eng":"motorcycle","spa":"motocicleta"
+      {"id":"",    "eng":"motorcycle","spa":"motocicleta"
         ,"pics":[
 
         ],"audio":[
@@ -1752,7 +1752,7 @@
 
         ]
       },
-      {"eng":"bicycle"   ,"spa":"bicicleta"  
+      {"id":"",    "eng":"bicycle"   ,"spa":"bicicleta"  
         ,"pics":[
 
         ],"audio":[
@@ -1761,7 +1761,7 @@
 
         ]
       },
-      {"eng":"motorbike" ,"spa":"motocicleta"
+      {"id":"",    "eng":"motorbike" ,"spa":"motocicleta"
         ,"pics":[
 
         ],"audio":[
@@ -1770,7 +1770,7 @@
 
         ]
       },
-      {"eng":"taxi"      ,"spa":"taxi"       
+      {"id":"",    "eng":"taxi"      ,"spa":"taxi"       
         ,"pics":[
 
         ],"audio":[
@@ -1779,7 +1779,7 @@
 
         ]
       },
-      {"eng":"scooter"   ,"spa":"patinete"   
+      {"id":"",    "eng":"scooter"   ,"spa":"patinete"   
         ,"pics":[
 
         ],"audio":[
@@ -1788,7 +1788,7 @@
 
         ]
       },
-      {"eng":"moped"     ,"spa":"ciclomoto"  
+      {"id":"",    "eng":"moped"     ,"spa":"ciclomoto"  
         ,"pics":[
 
         ],"audio":[
@@ -1799,7 +1799,7 @@
       }
     ],
     "foods": [
-      {"eng":"hamburger"   ,"spa":"hamburguesa"          
+      {"id":"",    "eng":"hamburger"   ,"spa":"hamburguesa"          
         ,"pics":[
 
         ],"audio":[
@@ -1808,7 +1808,7 @@
 
         ]
       },
-      {"eng":"pizza"       ,"spa":"pizza"                
+      {"id":"",    "eng":"pizza"       ,"spa":"pizza"                
         ,"pics":[
           "/pics/pizza.jpeg"
         ],"audio":[
@@ -1817,7 +1817,7 @@
 
         ]
       },
-      {"eng":"spaghetti"   ,"spa":"espaguetis"           
+      {"id":"",    "eng":"spaghetti"   ,"spa":"espaguetis"           
         ,"pics":[
 
         ],"audio":[
@@ -1826,7 +1826,7 @@
 
         ]
       },
-      {"eng":"sushi"       ,"spa":"sushi"                
+      {"id":"",    "eng":"sushi"       ,"spa":"sushi"                
         ,"pics":[
 
         ],"audio":[
@@ -1835,7 +1835,7 @@
 
         ]
       },
-      {"eng":"pork"        ,"spa":"cerdo"                
+      {"id":"",    "eng":"pork"        ,"spa":"cerdo"                
         ,"pics":[
 
         ],"audio":[
@@ -1844,7 +1844,7 @@
 
         ]
       },
-      {"eng":"steak"       ,"spa":"bistec"               
+      {"id":"",    "eng":"steak"       ,"spa":"bistec"               
         ,"pics":[
 
         ],"audio":[
@@ -1853,7 +1853,7 @@
 
         ]
       },
-      {"eng":"duck"     ,"spa":"pato"                
+      {"id":"",    "eng":"duck"     ,"spa":"pato"                
         ,"pics":[
 
         ],"audio":[
@@ -1862,7 +1862,7 @@
 
         ]
       },
-      {"eng":"turkey"     ,"spa":"pavo"                
+      {"id":"",    "eng":"turkey"     ,"spa":"pavo"                
         ,"pics":[
 
         ],"audio":[
@@ -1871,7 +1871,7 @@
 
         ]
       },
-      {"eng":"chicken"     ,"spa":"pollo"                
+      {"id":"",    "eng":"chicken"     ,"spa":"pollo"                
         ,"pics":[
 
         ],"audio":[
@@ -1880,7 +1880,7 @@
 
         ]
       },
-      {"eng":"rice"        ,"spa":"arroz"                
+      {"id":"",    "eng":"rice"        ,"spa":"arroz"                
         ,"pics":[
 
         ],"audio":[
@@ -1889,7 +1889,7 @@
 
         ]
       },
-      {"eng":"noodles"     ,"spa":"fideos"               
+      {"id":"",    "eng":"noodles"     ,"spa":"fideos"               
         ,"pics":[
 
         ],"audio":[
@@ -1898,7 +1898,7 @@
 
         ]
       },
-      {"eng":"pasta"       ,"spa":"pasta"                
+      {"id":"",    "eng":"pasta"       ,"spa":"pasta"                
         ,"pics":[
 
         ],"audio":[
@@ -1907,7 +1907,7 @@
 
         ]
       },
-      {"eng":"tomato"      ,"spa":"tomate"               
+      {"id":"",    "eng":"tomato"      ,"spa":"tomate"               
         ,"pics":[
 
         ],"audio":[
@@ -1916,7 +1916,7 @@
 
         ]
       },
-      {"eng":"onion"       ,"spa":"cebolla"              
+      {"id":"",    "eng":"onion"       ,"spa":"cebolla"              
         ,"pics":[
 
         ],"audio":[
@@ -1925,7 +1925,7 @@
 
         ]
       },
-      {"eng":"garlic"      ,"spa":"ajo"                  
+      {"id":"",    "eng":"garlic"      ,"spa":"ajo"                  
         ,"pics":[
 
         ],"audio":[
@@ -1934,7 +1934,7 @@
 
         ]
       },
-      {"eng":"pepper"      ,"spa":"pimienta"             
+      {"id":"",    "eng":"pepper"      ,"spa":"pimienta"             
         ,"pics":[
 
         ],"audio":[
@@ -1943,7 +1943,7 @@
 
         ]
       },
-      {"eng":"cabbage"     ,"spa":"col"                  
+      {"id":"",    "eng":"cabbage"     ,"spa":"col"                  
         ,"pics":[
 
         ],"audio":[
@@ -1952,7 +1952,7 @@
 
         ]
       },
-      {"eng":"broccoli"    ,"spa":"brócoli"              
+      {"id":"",    "eng":"broccoli"    ,"spa":"brócoli"              
         ,"pics":[
 
         ],"audio":[
@@ -1961,7 +1961,7 @@
 
         ]
       },
-      {"eng":"carrot"      ,"spa":"zanahoria"            
+      {"id":"",    "eng":"carrot"      ,"spa":"zanahoria"            
         ,"pics":[
 
         ],"audio":[
@@ -1970,7 +1970,7 @@
 
         ]
       },
-      {"eng":"lettuce"     ,"spa":"lechuga"              
+      {"id":"",    "eng":"lettuce"     ,"spa":"lechuga"              
         ,"pics":[
 
         ],"audio":[
@@ -1979,7 +1979,7 @@
 
         ]
       },
-      {"eng":"tomato sauce","spa":"aceite de tomate"     
+      {"id":"",    "eng":"tomato sauce","spa":"aceite de tomate"     
         ,"pics":[
 
         ],"audio":[
@@ -1988,7 +1988,7 @@
 
         ]
       },
-      {"eng":"cheese"      ,"spa":"queso"                
+      {"id":"",    "eng":"cheese"      ,"spa":"queso"                
         ,"pics":[
           "/pics/cheese.jpg"
         ],"audio":[
@@ -1997,7 +1997,7 @@
 
         ]
       },
-      {"eng":"bread"       ,"spa":"pan"                  
+      {"id":"",    "eng":"bread"       ,"spa":"pan"                  
         ,"pics":[
 
         ],"audio":[
@@ -2006,7 +2006,7 @@
 
         ]
       },
-      {"eng":"butter"      ,"spa":"mantequilla"          
+      {"id":"",    "eng":"butter"      ,"spa":"mantequilla"          
         ,"pics":[
 
         ],"audio":[
@@ -2015,7 +2015,7 @@
 
         ]
       },
-      {"eng":"cheeseburger","spa":"hamburguesa con queso"
+      {"id":"",    "eng":"cheeseburger","spa":"hamburguesa con queso"
         ,"pics":[
 
         ],"audio":[
@@ -2024,7 +2024,7 @@
 
         ]
       },
-      {"eng":"french fries","spa":"papas fritas"         
+      {"id":"",    "eng":"french fries","spa":"papas fritas"         
         ,"pics":[
           "/pics/french-fries.jpg"
         ],"audio":[
@@ -2033,7 +2033,7 @@
 
         ]
       },
-      {"eng":"burrito"     ,"spa":"burrito"              
+      {"id":"",    "eng":"burrito"     ,"spa":"burrito"              
         ,"pics":[
           "/pics/burrito.jpg"
         ],"audio":[
@@ -2042,7 +2042,7 @@
 
         ]
       },
-      {"eng":"taco"        ,"spa":"taco"                 
+      {"id":"",    "eng":"taco"        ,"spa":"taco"                 
         ,"pics":[
           "/pics/taco.jpg"
         ],"audio":[
@@ -2051,7 +2051,7 @@
 
         ]
       },
-      {"eng":"toast"       ,"spa":"tostada"              
+      {"id":"",    "eng":"toast"       ,"spa":"tostada"              
         ,"pics":[
           "/pics/toast.jpg"
         ],"audio":[
@@ -2060,7 +2060,7 @@
 
         ]
       },
-      {"eng":"tacos"       ,"spa":"tacos"                
+      {"id":"",    "eng":"tacos"       ,"spa":"tacos"                
         ,"pics":[
           "/pics/taco.jpg"
         ],"audio":[
@@ -2069,7 +2069,7 @@
 
         ]
       },
-      {"eng":"salad"       ,"spa":"ensalada"             
+      {"id":"",    "eng":"salad"       ,"spa":"ensalada"             
         ,"pics":[
           "/pics/salad.jpg"
         ],"audio":[
@@ -2078,7 +2078,7 @@
 
         ]
       },
-      {"eng":"salsa"       ,"spa":"salsa"                
+      {"id":"",    "eng":"salsa"       ,"spa":"salsa"                
         ,"pics":[
           "/pics/salsa.jpg"
         ],"audio":[
@@ -2087,7 +2087,7 @@
 
         ]
       },
-      {"eng":"plantain"    ,"spa":"plátano"              
+      {"id":"",    "eng":"plantain"    ,"spa":"plátano"              
         ,"pics":[
           "/pics/plantain.jpg"
         ],"audio":[
@@ -2096,7 +2096,7 @@
 
         ]
       },
-      {"eng":"avocado"     ,"spa":"avo"                  
+      {"id":"",    "eng":"avocado"     ,"spa":"avo"                  
         ,"pics":[
           "/pics/avocado.jpg"
         ],"audio":[
@@ -2105,7 +2105,7 @@
 
         ]
       },
-      {"eng":"banana"      ,"spa":"plátano"              
+      {"id":"",    "eng":"banana"      ,"spa":"plátano"              
         ,"pics":[
 
         ],"audio":[
@@ -2114,7 +2114,7 @@
 
         ]
       },
-      {"eng":"orange"      ,"spa":"naranja"              
+      {"id":"",    "eng":"orange"      ,"spa":"naranja"              
         ,"pics":[
 
         ],"audio":[
@@ -2123,7 +2123,7 @@
 
         ]
       },
-      {"eng":"grape"       ,"spa":"uva"                  
+      {"id":"",    "eng":"grape"       ,"spa":"uva"                  
         ,"pics":[
 
         ],"audio":[
@@ -2132,7 +2132,7 @@
 
         ]
       },
-      {"eng":"apple"       ,"spa":"manzana"              
+      {"id":"",    "eng":"apple"       ,"spa":"manzana"              
         ,"pics":[
 
         ],"audio":[
@@ -2141,7 +2141,7 @@
 
         ]
       },
-      {"eng":"eggs"       ,"spa":"huevos"              
+      {"id":"",    "eng":"eggs"       ,"spa":"huevos"              
         ,"pics":[
           "/pics/eggs.jpg"
         ],"audio":[
@@ -2152,7 +2152,7 @@
       }
     ],
     "drinks": [
-      {"eng":"water"       ,"spa":"agua"                
+      {"id":"",    "eng":"water"       ,"spa":"agua"                
         ,"pics":[
 
         ],"audio":[
@@ -2161,7 +2161,7 @@
 
         ]
       },
-      {"eng":"juice"       ,"spa":"jugo"                
+      {"id":"",    "eng":"juice"       ,"spa":"jugo"                
         ,"pics":[
 
         ],"audio":[
@@ -2170,7 +2170,7 @@
 
         ]
       },
-      {"eng":"orange juice","spa":"jugo de naranja"     
+      {"id":"",    "eng":"orange juice","spa":"jugo de naranja"     
         ,"pics":[
 
         ],"audio":[
@@ -2179,7 +2179,7 @@
 
         ]
       },
-      {"eng":"apple juice" ,"spa":"jugo de manzana"     
+      {"id":"",    "eng":"apple juice" ,"spa":"jugo de manzana"     
         ,"pics":[
 
         ],"audio":[
@@ -2188,7 +2188,7 @@
 
         ]
       },
-      {"eng":"milk"        ,"spa":"leche"               
+      {"id":"",    "eng":"milk"        ,"spa":"leche"               
         ,"pics":[
           "/pics/milk.jpeg"
         ],"audio":[
@@ -2197,7 +2197,7 @@
 
         ]
       },
-      {"eng":"soda"        ,"spa":"soda"                
+      {"id":"",    "eng":"soda"        ,"spa":"soda"                
         ,"pics":[
 
         ],"audio":[
@@ -2206,7 +2206,7 @@
 
         ]
       },
-      {"eng":"lemonade"    ,"spa":"limonada"            
+      {"id":"",    "eng":"lemonade"    ,"spa":"limonada"            
         ,"pics":[
 
         ],"audio":[
@@ -2215,7 +2215,7 @@
 
         ]
       },
-      {"eng":"coffee"      ,"spa":"café"                
+      {"id":"",    "eng":"coffee"      ,"spa":"café"                
         ,"pics":[
           "/pics/coffee.jpg"
         ],"audio":[
@@ -2224,7 +2224,7 @@
 
         ]
       },
-      {"eng":"tea"         ,"spa":"té"                  
+      {"id":"",    "eng":"tea"         ,"spa":"té"                  
         ,"pics":[
 
         ],"audio":[
@@ -2233,7 +2233,7 @@
 
         ]
       },
-      {"eng":"wine"        ,"spa":"vino"                
+      {"id":"",    "eng":"wine"        ,"spa":"vino"                
         ,"pics":[
 
         ],"audio":[
@@ -2242,7 +2242,7 @@
 
         ]
       },
-      {"eng":"red wine"    ,"spa":"vino rojo"           
+      {"id":"",    "eng":"red wine"    ,"spa":"vino rojo"           
         ,"pics":[
 
         ],"audio":[
@@ -2251,7 +2251,7 @@
 
         ]
       },
-      {"eng":"white wine"  ,"spa":"vino blanco"         
+      {"id":"",    "eng":"white wine"  ,"spa":"vino blanco"         
         ,"pics":[
 
         ],"audio":[
@@ -2260,7 +2260,7 @@
 
         ]
       },
-      {"eng":"spirits"     ,"spa":"bebidas espirituosas"
+      {"id":"",    "eng":"spirits"     ,"spa":"bebidas espirituosas"
         ,"pics":[
 
         ],"audio":[
@@ -2269,7 +2269,7 @@
 
         ]
       },
-      {"eng":"champagne"   ,"spa":"champán"             
+      {"id":"",    "eng":"champagne"   ,"spa":"champán"             
         ,"pics":[
 
         ],"audio":[
@@ -2278,7 +2278,7 @@
 
         ]
       },
-      {"eng":"beer"        ,"spa":"cerveza"             
+      {"id":"",    "eng":"beer"        ,"spa":"cerveza"             
         ,"pics":[
 
         ],"audio":[
@@ -2287,7 +2287,7 @@
 
         ]
       },
-      {"eng":"wine glass"  ,"spa":"vaso de vino"        
+      {"id":"",    "eng":"wine glass"  ,"spa":"vaso de vino"        
         ,"pics":[
 
         ],"audio":[
@@ -2296,7 +2296,7 @@
 
         ]
       },
-      {"eng":"bottle"      ,"spa":"botella"             
+      {"id":"",    "eng":"bottle"      ,"spa":"botella"             
         ,"pics":[
 
         ],"audio":[
@@ -2305,7 +2305,7 @@
 
         ]
       },
-      {"eng":"wine bottle" ,"spa":"botella de vino"     
+      {"id":"",    "eng":"wine bottle" ,"spa":"botella de vino"     
         ,"pics":[
 
         ],"audio":[
@@ -2314,7 +2314,7 @@
 
         ]
       },
-      {"eng":"wine cooler" ,"spa":"estufa de vino"      
+      {"id":"",    "eng":"wine cooler" ,"spa":"estufa de vino"      
         ,"pics":[
 
         ],"audio":[
@@ -2325,7 +2325,7 @@
       }
     ],
     "family": [
-      {"eng":"son" ,"spa":"hijo"     
+      {"id":"",    "eng":"son" ,"spa":"hijo"     
         ,"pics":[
 
         ],"audio":[
@@ -2334,7 +2334,7 @@
 
         ]
       },
-      {"eng":"daughter" ,"spa":"hija"     
+      {"id":"",    "eng":"daughter" ,"spa":"hija"     
         ,"pics":[
 
         ],"audio":[
@@ -2343,7 +2343,7 @@
 
         ]
       },
-      {"eng":"father" ,"spa":"padre"     
+      {"id":"",    "eng":"father" ,"spa":"padre"     
         ,"pics":[
 
         ],"audio":[
@@ -2352,7 +2352,7 @@
 
         ]
       },
-      {"eng":"stepfather" ,"spa":"padrastro"     
+      {"id":"",    "eng":"stepfather" ,"spa":"padrastro"     
         ,"pics":[
 
         ],"audio":[
@@ -2361,7 +2361,7 @@
 
         ]
       },
-      {"eng":"mother" ,"spa":"madre"     
+      {"id":"",    "eng":"mother" ,"spa":"madre"     
         ,"pics":[
 
         ],"audio":[
@@ -2370,7 +2370,7 @@
 
         ]
       },
-      {"eng":"stepmother" ,"spa":"madrastro"     
+      {"id":"",    "eng":"stepmother" ,"spa":"madrastro"     
         ,"pics":[
 
         ],"audio":[
@@ -2379,7 +2379,7 @@
 
         ]
       },
-      {"eng":"brother" ,"spa":"hermano"     
+      {"id":"",    "eng":"brother" ,"spa":"hermano"     
         ,"pics":[
 
         ],"audio":[
@@ -2388,7 +2388,7 @@
 
         ]
       },
-      {"eng":"stepbrother" ,"spa":"hermanastro"     
+      {"id":"",    "eng":"stepbrother" ,"spa":"hermanastro"     
         ,"pics":[
 
         ],"audio":[
@@ -2397,7 +2397,7 @@
 
         ]
       },
-      {"eng":"sister" ,"spa":"hermana"     
+      {"id":"",    "eng":"sister" ,"spa":"hermana"     
         ,"pics":[
 
         ],"audio":[
@@ -2406,7 +2406,7 @@
 
         ]
       },
-      {"eng":"stepsister" ,"spa":"hermanastra"     
+      {"id":"",    "eng":"stepsister" ,"spa":"hermanastra"     
         ,"pics":[
 
         ],"audio":[
@@ -2415,7 +2415,7 @@
 
         ]
       },
-      {"eng":"grandfather" ,"spa":"abuelo"     
+      {"id":"",    "eng":"grandfather" ,"spa":"abuelo"     
         ,"pics":[
 
         ],"audio":[
@@ -2424,7 +2424,7 @@
 
         ]
       },
-      {"eng":"grandmother" ,"spa":"abuela"     
+      {"id":"",    "eng":"grandmother" ,"spa":"abuela"     
         ,"pics":[
 
         ],"audio":[
@@ -2433,7 +2433,7 @@
 
         ]
       },
-      {"eng":"great grandfather" ,"spa":"bisabuelo"     
+      {"id":"",    "eng":"great grandfather" ,"spa":"bisabuelo"     
         ,"pics":[
 
         ],"audio":[
@@ -2442,7 +2442,7 @@
 
         ]
       },
-      {"eng":"great grandmother" ,"spa":"bisabuela"     
+      {"id":"",    "eng":"great grandmother" ,"spa":"bisabuela"     
         ,"pics":[
 
         ],"audio":[
@@ -2451,7 +2451,7 @@
 
         ]
       },
-      {"eng":"godfather" ,"spa":"padrino"     
+      {"id":"",    "eng":"godfather" ,"spa":"padrino"     
         ,"pics":[
 
         ],"audio":[
@@ -2460,7 +2460,7 @@
 
         ]
       },
-      {"eng":"godmother" ,"spa":"padrina"     
+      {"id":"",    "eng":"godmother" ,"spa":"padrina"     
         ,"pics":[
 
         ],"audio":[
@@ -2469,7 +2469,7 @@
 
         ]
       },
-      {"eng":"nephew" ,"spa":"sobrino"     
+      {"id":"",    "eng":"nephew" ,"spa":"sobrino"     
         ,"pics":[
 
         ],"audio":[
@@ -2478,7 +2478,7 @@
 
         ]
       },
-      {"eng":"niece" ,"spa":"sobrina"     
+      {"id":"",    "eng":"niece" ,"spa":"sobrina"     
         ,"pics":[
 
         ],"audio":[
@@ -2487,7 +2487,7 @@
 
         ]
       },
-      {"eng":"cousin" ,"spa":"primo"     
+      {"id":"",    "eng":"cousin" ,"spa":"primo"     
         ,"pics":[
 
         ],"audio":[
@@ -2498,7 +2498,7 @@
       }
     ],
     "professionals": [
-      {"eng":"teacher" ,   "spa":"profesor"     
+      {"id":"",    "eng":"teacher" ,   "spa":"profesor"     
         ,"pics":[
 
         ],"audio":[
@@ -2507,7 +2507,7 @@
 
         ]
       },
-      {"eng":"doctor" ,   "spa":"doctor"     
+      {"id":"",    "eng":"doctor" ,   "spa":"doctor"     
         ,"pics":[
 
         ],"audio":[
@@ -2516,7 +2516,7 @@
 
         ]
       },
-      {"eng":"engineer" , "spa":"ingeniero"     
+      {"id":"",    "eng":"engineer" , "spa":"ingeniero"     
         ,"pics":[
           
         ],"audio":[
@@ -2525,7 +2525,7 @@
 
         ]
       },
-      {"eng":"baker" , "spa":"panadero"     
+      {"id":"",    "eng":"baker" , "spa":"panadero"     
         ,"pics":[
           
         ],"audio":[
@@ -2534,7 +2534,7 @@
 
         ]
       },
-      {"eng":"lawyer" , "spa":"abogado"     
+      {"id":"",    "eng":"lawyer" , "spa":"abogado"     
         ,"pics":[
 
         ],"audio":[
@@ -2543,7 +2543,7 @@
 
         ]
       },
-      {"eng":"policeman" , "spa":"policía"     
+      {"id":"",    "eng":"policeman" , "spa":"policía"     
         ,"pics":[
 
         ],"audio":[
@@ -2552,7 +2552,7 @@
 
         ]
       },
-      {"eng":"firefighter" , "spa":"bombero"     
+      {"id":"",    "eng":"firefighter" , "spa":"bombero"     
         ,"pics":[
         
         ],"audio":[
@@ -2561,7 +2561,7 @@
 
         ]
       },
-      {"eng":"musician" , "spa":"músico"     
+      {"id":"",    "eng":"musician" , "spa":"músico"     
         ,"pics":[
 
         ],"audio":[
@@ -2570,7 +2570,7 @@
 
         ]
       },
-      {"eng":"actor" , "spa":"actor"     
+      {"id":"",    "eng":"actor" , "spa":"actor"     
         ,"pics":[
 
         ],"audio":[
@@ -2579,7 +2579,7 @@
 
         ]
       },
-      {"eng":"chef" , "spa":"cocinero"     
+      {"id":"",    "eng":"chef" , "spa":"cocinero"     
         ,"pics":[
 
         ],"audio":[
@@ -2588,7 +2588,7 @@
         
         ]
       },
-      {"eng":"politician" , "spa":"político"     
+      {"id":"",    "eng":"politician" , "spa":"político"     
         ,"pics":[
 
         ],"audio":[
@@ -2597,7 +2597,7 @@
 
         ]
       },
-      {"eng":"writer" , "spa":"escritor"     
+      {"id":"",    "eng":"writer" , "spa":"escritor"     
         ,"pics":[
 
         ],"audio":[
@@ -2606,7 +2606,7 @@
 
         ]
       },
-      {"eng":"farmer" , "spa":"granjero"     
+      {"id":"",    "eng":"farmer" , "spa":"granjero"     
         ,"pics":[
 
         ],"audio":[
@@ -2615,7 +2615,7 @@
 
         ]
       },
-      {"eng":"waiter" , "spa":"camarero"     
+      {"id":"",    "eng":"waiter" , "spa":"camarero"     
         ,"pics":[
 
         ],"audio":[
@@ -2624,7 +2624,7 @@
 
         ]
       },
-      {"eng":"pilot" , "spa":"piloto"     
+      {"id":"",    "eng":"pilot" , "spa":"piloto"     
         ,"pics":[
 
         ],"audio":[
@@ -2633,7 +2633,7 @@
 
         ]
       },
-      {"eng":"paramedic","spa":"paramédico",
+      {"id":"",    "eng":"paramedic","spa":"paramédico",
         "pics":[
 
         ],"audio":[
@@ -2642,7 +2642,7 @@
 
         ]
       },
-      {"eng":"receptionist","spa":"recepcionista",
+      {"id":"",    "eng":"receptionist","spa":"recepcionista",
         "pics":[
 
         ],"audio":[
@@ -2651,7 +2651,7 @@
 
         ]
       },
-      {"eng":"assistant","spa":"asistente",
+      {"id":"",    "eng":"assistant","spa":"asistente",
         "pics":[
         
         ],"audio":[
