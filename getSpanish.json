@@ -1,7 +1,7 @@
 {
   "englishToSpanish": {
     "daysOfWeek": [
-      {"id":"",    "eng":"sunday"   ,"spa":"domingo"   
+      {"id":"sunday",    "eng":"sunday"   ,"spa":"domingo"   
         ,"pics":[
           "/pics/sunday.jpg"
         ],"audio":[
@@ -10,7 +10,7 @@
           {"eng":"sunday"   ,"spa":"domingo"}
         ]
       },
-      {"id":"",    "eng":"monday"   ,"spa":"lunes"     
+      {"id":"monday",    "eng":"monday"   ,"spa":"lunes"     
         ,"pics":[
           "/pics/monday.jpg"
         ],"audio":[
@@ -19,7 +19,7 @@
           {"eng":"monday"   ,"spa":"lunes"}
         ]
       },
-      {"id":"",    "eng":"tuesday"  ,"spa":"martes"    
+      {"id":"tuesday",    "eng":"tuesday"  ,"spa":"martes"    
         ,"pics":[
           "/pics/tuesday.jpg"
         ],"audio":[
@@ -28,7 +28,7 @@
           {"eng":"tuesday"  ,"spa":"martes"}
         ]
       },
-      {"id":"",    "eng":"wednesday","spa": "miercoles"
+      {"id":"wednesday",    "eng":"wednesday","spa": "miercoles"
         ,"pics":[
           "/pics/wednesday.jpg"
         ],"audio":[
@@ -37,7 +37,7 @@
           {"eng":"wednesday","spa": "miercoles"}
         ]
       },
-      {"id":"",    "eng":"thursday" ,"spa":"jueves"    
+      {"id":"thursday",    "eng":"thursday" ,"spa":"jueves"    
         ,"pics":[
           "/pics/thursday.jpg"
         ],"audio":[
@@ -46,7 +46,7 @@
           {"eng":"thursday" ,"spa":"jueves"}
         ]
       },
-      {"id":"",    "eng":"friday"   ,"spa":"viernes"   
+      {"id":"friday",    "eng":"friday"   ,"spa":"viernes"   
         ,"pics":[
           "/pics/friday.jpg"
         ],"audio":[
@@ -55,7 +55,7 @@
           {"eng":"friday"   ,"spa":"viernes"}
         ]
       },
-      {"id":"",    "eng":"saturday" ,"spa":"sabado"    
+      {"id":"saturday",    "eng":"saturday" ,"spa":"sabado"    
         ,"pics":[
           "/pics/saturday.jpg"
         ],"audio":[
@@ -66,7 +66,7 @@
       }
     ],
     "months": [
-      {"id":"",    "eng":"january"  ,"spa":"enero"     
+      {"id":"january",    "eng":"january"  ,"spa":"enero"     
         ,"pics":[
 
         ],"audio":[
@@ -75,7 +75,7 @@
           {"eng":"january"  ,"spa":"enero"}
         ]
       },
-      {"id":"",    "eng":"february" ,"spa":"febrero"   
+      {"id":"february",    "eng":"february" ,"spa":"febrero"   
         ,"pics":[
 
         ],"audio":[
@@ -84,7 +84,7 @@
           {"eng":"february" ,"spa":"febrero"}
         ]
       },
-      {"id":"",    "eng":"march"    ,"spa":"marcha"    
+      {"id":"march",    "eng":"march"    ,"spa":"marcha"    
         ,"pics":[
           
         ],"audio":[
@@ -93,7 +93,7 @@
           {"eng":"march"    ,"spa":"marcha"}
         ]
       },
-      {"id":"",    "eng":"april"    ,"spa":"abril"     
+      {"id":"april",    "eng":"april"    ,"spa":"abril"     
         ,"pics":[
 
         ],"audio":[
@@ -102,7 +102,7 @@
           {"eng":"april"    ,"spa":"abril"}
         ]
       },
-      {"id":"",    "eng":"may"      ,"spa":"mayo"      
+      {"id":"may",    "eng":"may"      ,"spa":"mayo"      
         ,"pics":[
 
         ],"audio":[
@@ -111,7 +111,7 @@
           {"eng":"may"      ,"spa":"mayo"}
         ]
       },
-      {"id":"",    "eng":"june"     ,"spa":"junio"     
+      {"id":"june",    "eng":"june"     ,"spa":"junio"     
         ,"pics":[
 
         ],"audio":[
@@ -120,7 +120,7 @@
           {"eng":"june"     ,"spa":"junio"}
         ]
       },
-      {"id":"",    "eng":"july"     ,"spa":"julio"     
+      {"id":"july",    "eng":"july"     ,"spa":"julio"     
         ,"pics":[
 
         ],"audio":[
@@ -129,7 +129,7 @@
           {"eng":"july"     ,"spa":"julio"}
         ]
       },
-      {"id":"",    "eng":"august"   ,"spa":"augusto"   
+      {"id":"august",    "eng":"august"   ,"spa":"augusto"   
         ,"pics":[
 
         ],"audio":[
@@ -138,7 +138,7 @@
           {"eng":"august"   ,"spa":"augusto"}
         ]
       },
-      {"id":"",    "eng":"september","spa":"septiembre"
+      {"id":"september",    "eng":"september","spa":"septiembre"
         ,"pics":[
 
         ],"audio":[
@@ -147,7 +147,7 @@
           {"eng":"september","spa":"septiembre"}
         ]
       },
-      {"id":"",    "eng":"october"  ,"spa":"octubre"   
+      {"id":"october",    "eng":"october"  ,"spa":"octubre"   
         ,"pics":[
 
         ],"audio":[
@@ -156,7 +156,7 @@
           {"eng":"october"  ,"spa":"octubre"}
         ]
       },
-      {"id":"",    "eng":"november" ,"spa":"novembre"  
+      {"id":"november",    "eng":"november" ,"spa":"novembre"  
         ,"pics":[
 
         ],"audio":[
@@ -165,7 +165,7 @@
           {"eng":"november" ,"spa":"novembre"}
         ]
       },
-      {"id":"",    "eng":"december" ,"spa":"diciembre" 
+      {"id":"december",    "eng":"december" ,"spa":"diciembre" 
         ,"pics":[
           
         ],"audio":[
@@ -176,7 +176,7 @@
       }
     ],
     "timeUnits": [
-      {"id":"",    "eng":"seconds"     ,"spa":"segundos"    
+      {"id":"seconds",    "eng":"seconds"     ,"spa":"segundos"    
         ,"pics":[
           "/pics/seconds.jpg"
         ],"audio":[
@@ -185,34 +185,34 @@
 
         ]
       },
-      {"id":"",    "eng":"minutes"     ,"spa":"minutos"     
+      {"id":"minutes",    "eng":"minutes"     ,"spa":"minutos"     
         ,"pics":[
-          "/pics/minute.jpg"
+          "/pics/minutes.jpg"
         ],"audio":[
 
         ],"example-sentance":[
 
         ]
       },
-      {"id":"",    "eng":"hours"       ,"spa":"horas"       
+      {"id":"hours",    "eng":"hours"       ,"spa":"horas"       
         ,"pics":[
-          "/pics/hour.jpg"
+          "/pics/hours.jpg"
         ],"audio":[
 
         ],"example-sentance":[
 
         ]
       },
-      {"id":"",    "eng":"days"        ,"spa":"dias"        
+      {"id":"days",    "eng":"days"        ,"spa":"dias"        
         ,"pics":[
-          "/pics/monday.jpg"
+          "/pics/days.jpg"
         ],"audio":[
 
         ],"example-sentance":[
 
         ]
       },
-      {"id":"",    "eng":"weeks"       ,"spa":"semanas"     
+      {"id":"weeks",    "eng":"weeks"       ,"spa":"semanas"     
         ,"pics":[
           "/pics/week.jpg"
         ],"audio":[
@@ -221,18 +221,18 @@
 
         ]
       },
-      {"id":"",    "eng":"months"      ,"spa":"meses"       
+      {"id":"months",    "eng":"months"      ,"spa":"meses"       
         ,"pics":[
-          "/pics/month.jpg"
+          "/pics/months.jpg"
         ],"audio":[
 
         ],"example-sentance":[
 
         ]
       },
-      {"id":"",    "eng":"years"       ,"spa":"años"        
+      {"id":"years",    "eng":"years"       ,"spa":"años"        
         ,"pics":[
-          "/pics/year.jpg"
+          "/pics/years.jpg"
         ],"audio":[
 
         ],"example-sentance":[
