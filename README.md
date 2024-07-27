@@ -7,16 +7,16 @@ Table of Contents
 
 003-067     Days of the Week
 068-177     Months
-178-251     Measurements of Time
-252-1189    Counting
-1190-1461   Local Geography
-1462-1580   Entertainment
-1581-1681   Finance
-1682-1809   Transportation
-1810-2162   Foods
-2163-2335   Drinks
-2336-2508   Family
-2509-2672   Professionals
+178-242     Measurements of Time
+243-1180    Counting
+1181-1452   Local Geography
+1453-1571   Entertainment
+1572-1672   Finance
+1673-1800   Transportation
+1801-2153   Foods
+2154-2326   Drinks
+2327-2499   Family
+2500-2663   Professionals
 ```
 
 Thank you!

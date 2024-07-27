@@ -10,16 +10,21 @@
   <header><h3>This is a header</h3></header>
   <div class="container">
     <main>Main
-      <section>Section 1</section>
-      <section>Section 2</section>
-      <section>Section 3</section>
-      <section>Section 4</section>
-      <section>Section 5</section>
-      <section>Section 6</section>
-      <section>Section 7</section>
-      <section>Section 8</section>
-      <section>Section 9</section>
-      <section>Section 10</section>
+      <form>
+        <div id="language-select">
+          <label for="your-language">Select your language:</label>
+        <select id="your-language">
+          <option value="esp">Español</option>
+          <option value="eng">English</option>
+        </select>
+        </div>
+        <label for="translated-language">Select desired translation:</label>
+        <select id="translated-language">
+          <option value="esp">Español</option>
+          <option value="eng">English</option>
+        </select>
+        <ul id="results"></ul>
+      </form>
     </main>
   </div>
   <footer><h3>This is a footer</h3></footer>
